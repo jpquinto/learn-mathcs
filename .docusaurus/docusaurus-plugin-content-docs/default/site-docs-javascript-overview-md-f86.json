@@ -1,0 +1,24 @@
+{
+  "id": "javascript/overview",
+  "title": "JavaScript",
+  "description": "",
+  "source": "@site/docs/javascript/overview.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/overview",
+  "permalink": "/docs/javascript/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "javascriptSidebar",
+  "next": {
+    "title": "Example Projects",
+    "permalink": "/docs/category/example-projects"
+  }
+}

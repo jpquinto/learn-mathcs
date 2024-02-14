@@ -1,0 +1,16 @@
+{
+  "title": "Beginner",
+  "description": "Beginner JavaScript projects.",
+  "slug": "/category/beginner",
+  "permalink": "/docs/category/beginner",
+  "navigation": {
+    "previous": {
+      "title": "Example Projects",
+      "permalink": "/docs/category/example-projects"
+    },
+    "next": {
+      "title": "High School Seat Picker",
+      "permalink": "/docs/javascript/example-projects/beginner/seat-picker"
+    }
+  }
+}

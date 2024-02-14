@@ -127,7 +127,7 @@
             },
             {
               "id": "algebra-1/overview",
-              "title": "Overview",
+              "title": "Algebra 1: Overview",
               "description": "The textbook used for this website's Algebra 1 content is Big Ideas Math Algebra 1.",
               "source": "@site/docs/algebra-1/overview.md",
               "sourceDirName": "algebra-1",
@@ -166,6 +166,54 @@
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
+              }
+            },
+            {
+              "id": "javascript/example-projects/beginner/seat-picker",
+              "title": "High School Seat Picker",
+              "description": "This is a Beginner problem",
+              "source": "@site/docs/javascript/example-projects/beginner/seat-picker.md",
+              "sourceDirName": "javascript/example-projects/beginner",
+              "slug": "/javascript/example-projects/beginner/seat-picker",
+              "permalink": "/docs/javascript/example-projects/beginner/seat-picker",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "javascriptSidebar",
+              "previous": {
+                "title": "Beginner",
+                "permalink": "/docs/category/beginner"
+              }
+            },
+            {
+              "id": "javascript/overview",
+              "title": "JavaScript",
+              "description": "",
+              "source": "@site/docs/javascript/overview.md",
+              "sourceDirName": "javascript",
+              "slug": "/javascript/overview",
+              "permalink": "/docs/javascript/overview",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "javascriptSidebar",
+              "next": {
+                "title": "Example Projects",
+                "permalink": "/docs/category/example-projects"
               }
             },
             {
@@ -427,20 +475,48 @@
                   "permalink": "/docs/category/chapter-6-2"
                 }
               }
+            ],
+            "javascriptSidebar": [
+              {
+                "type": "doc",
+                "id": "javascript/overview"
+              },
+              {
+                "type": "category",
+                "label": "Example Projects",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Beginner",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "javascript/example-projects/beginner/seat-picker"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Beginner JavaScript projects.",
+                      "slug": "/category/beginner",
+                      "permalink": "/docs/category/beginner"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Example JavaScript projects, from beginner to hard level!",
+                  "slug": "/category/example-projects",
+                  "permalink": "/docs/category/example-projects"
+                }
+              }
             ]
           }
         }
       ]
-    }
-  },
-  "docusaurus-plugin-content-blog": {
-    "default": {
-      "blogSidebarTitle": "Recent posts",
-      "blogPosts": [],
-      "blogListPaginated": [],
-      "blogTags": {},
-      "blogTagsListPath": "/blog/tags",
-      "blogTagsPaginated": []
     }
   },
   "docusaurus-plugin-content-pages": {

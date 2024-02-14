@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-772": {
+  "/docs-17e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsee-3-1b6"
     }
   },
-  "/docs-46d": {
+  "/docs-54e": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-ecd": {
+  "/docs-816": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/algebra-1/chapter-6/6-1-fa5": {
@@ -82,6 +82,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-algebra-1-overviewba-4-8e9"
   },
+  "/docs/category/beginner-c83": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-beginner-1-f-9-b8c"
+  },
   "/docs/category/chapter-6-717": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-chapter-6-a-3-d-cb5"
@@ -94,9 +98,21 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-chapter-6-2866-f79"
   },
+  "/docs/category/example-projects-624": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-example-projects-087-339"
+  },
   "/docs/intro-e84": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/javascript/example-projects/beginner/seat-picker-670": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-example-projects-beginner-seat-picker-953-275"
+  },
+  "/docs/javascript/overview-03d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-overviewf-86-ef7"
   },
   "/docs/tutorial-basics/congratulations-7ef": {
     "__comp": "__comp---theme-doc-item-178-a40",

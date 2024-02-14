@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '772'),
+    component: ComponentCreator('/docs', '17e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '46d'),
+        component: ComponentCreator('/docs', '54e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ecd'),
+            component: ComponentCreator('/docs', '816'),
             routes: [
               {
                 path: '/docs/algebra-1/chapter-6/6-1',
@@ -85,6 +85,12 @@ export default [
                 sidebar: "geometrySidebar"
               },
               {
+                path: '/docs/category/beginner',
+                component: ComponentCreator('/docs/category/beginner', 'c83'),
+                exact: true,
+                sidebar: "javascriptSidebar"
+              },
+              {
                 path: '/docs/category/chapter-6',
                 component: ComponentCreator('/docs/category/chapter-6', '717'),
                 exact: true,
@@ -103,9 +109,27 @@ export default [
                 sidebar: "geometrySidebar"
               },
               {
+                path: '/docs/category/example-projects',
+                component: ComponentCreator('/docs/category/example-projects', '624'),
+                exact: true,
+                sidebar: "javascriptSidebar"
+              },
+              {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', 'e84'),
                 exact: true
+              },
+              {
+                path: '/docs/javascript/example-projects/beginner/seat-picker',
+                component: ComponentCreator('/docs/javascript/example-projects/beginner/seat-picker', '670'),
+                exact: true,
+                sidebar: "javascriptSidebar"
+              },
+              {
+                path: '/docs/javascript/overview',
+                component: ComponentCreator('/docs/javascript/overview', '03d'),
+                exact: true,
+                sidebar: "javascriptSidebar"
               },
               {
                 path: '/docs/tutorial-basics/congratulations',

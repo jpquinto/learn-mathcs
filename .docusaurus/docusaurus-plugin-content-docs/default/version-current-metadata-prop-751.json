@@ -11,7 +11,7 @@
     "algebra1Sidebar": [
       {
         "type": "link",
-        "label": "Overview",
+        "label": "Algebra 1: Overview",
         "href": "/docs/algebra-1/overview",
         "docId": "algebra-1/overview",
         "unlisted": false
@@ -57,7 +57,7 @@
     "algebra2Sidebar": [
       {
         "type": "link",
-        "label": "Overview",
+        "label": "Algebra 1: Overview",
         "href": "/docs/algebra-1/overview",
         "docId": "algebra-1/overview",
         "unlisted": false
@@ -103,7 +103,7 @@
     "geometrySidebar": [
       {
         "type": "link",
-        "label": "Overview",
+        "label": "Algebra 1: Overview",
         "href": "/docs/algebra-1/overview",
         "docId": "algebra-1/overview",
         "unlisted": false
@@ -145,6 +145,40 @@
         ],
         "href": "/docs/category/chapter-6-2"
       }
+    ],
+    "javascriptSidebar": [
+      {
+        "type": "link",
+        "label": "JavaScript",
+        "href": "/docs/javascript/overview",
+        "docId": "javascript/overview",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Example Projects",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Beginner",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "High School Seat Picker",
+                "href": "/docs/javascript/example-projects/beginner/seat-picker",
+                "docId": "javascript/example-projects/beginner/seat-picker",
+                "unlisted": false
+              }
+            ],
+            "href": "/docs/category/beginner"
+          }
+        ],
+        "href": "/docs/category/example-projects"
+      }
     ]
   },
   "docs": {
@@ -174,7 +208,7 @@
     },
     "algebra-1/overview": {
       "id": "algebra-1/overview",
-      "title": "Overview",
+      "title": "Algebra 1: Overview",
       "description": "The textbook used for this website's Algebra 1 content is Big Ideas Math Algebra 1.",
       "sidebar": "geometrySidebar"
     },
@@ -182,6 +216,18 @@
       "id": "intro",
       "title": "Welcome!",
       "description": "Welcome to my brand new website for tutoring! Find practice problems, resources, and (maybe in the future) videos to supplement our tutoring sessions!"
+    },
+    "javascript/example-projects/beginner/seat-picker": {
+      "id": "javascript/example-projects/beginner/seat-picker",
+      "title": "High School Seat Picker",
+      "description": "This is a Beginner problem",
+      "sidebar": "javascriptSidebar"
+    },
+    "javascript/overview": {
+      "id": "javascript/overview",
+      "title": "JavaScript",
+      "description": "",
+      "sidebar": "javascriptSidebar"
     },
     "tutorial-basics/congratulations": {
       "id": "tutorial-basics/congratulations",

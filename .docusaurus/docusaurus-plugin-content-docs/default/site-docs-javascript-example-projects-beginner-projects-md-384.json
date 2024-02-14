@@ -1,0 +1,23 @@
+{
+  "id": "javascript/example-projects/beginner/projects",
+  "title": "Beginner",
+  "description": "",
+  "source": "@site/docs/javascript/example-projects/beginner/projects.md",
+  "sourceDirName": "javascript/example-projects/beginner",
+  "slug": "/javascript/example-projects/beginner/projects",
+  "permalink": "/docs/javascript/example-projects/beginner/projects",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "sidebar-position": 1
+  },
+  "sidebar": "javascriptSidebar",
+  "previous": {
+    "title": "Beginner",
+    "permalink": "/docs/category/beginner"
+  }
+}

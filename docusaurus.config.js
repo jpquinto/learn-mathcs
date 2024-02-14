@@ -42,6 +42,7 @@ const config = {
           rehypePlugins: [rehypeKatex],
           showLastUpdateTime: true,
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -87,6 +88,12 @@ const config = {
             sidebarId: 'algebra2Sidebar',
             position: 'left',
             label: 'Algebra 2',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'javascriptSidebar',
+            position: 'left',
+            label: 'JavaScript',
           },
         ],
       },

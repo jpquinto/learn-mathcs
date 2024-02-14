@@ -1,0 +1,23 @@
+{
+  "id": "javascript/example-projects/projects",
+  "title": "Beginner",
+  "description": "",
+  "source": "@site/docs/javascript/example-projects/projects.md",
+  "sourceDirName": "javascript/example-projects",
+  "slug": "/javascript/example-projects/projects",
+  "permalink": "/docs/javascript/example-projects/projects",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "sidebar-position": 1
+  },
+  "sidebar": "javascriptSidebar",
+  "previous": {
+    "title": "Seat Picker",
+    "permalink": "/docs/javascript/example-projects/beginner/seat-picker"
+  }
+}

@@ -40,6 +40,16 @@
               "path": "/docs/intro"
             },
             {
+              "id": "javascript/example-projects/beginner/seat-picker",
+              "path": "/docs/javascript/example-projects/beginner/seat-picker",
+              "sidebar": "javascriptSidebar"
+            },
+            {
+              "id": "javascript/overview",
+              "path": "/docs/javascript/overview",
+              "sidebar": "javascriptSidebar"
+            },
+            {
               "id": "tutorial-basics/congratulations",
               "path": "/docs/tutorial-basics/congratulations"
             },
@@ -85,6 +95,16 @@
               "id": "/category/chapter-6-2",
               "path": "/docs/category/chapter-6-2",
               "sidebar": "geometrySidebar"
+            },
+            {
+              "id": "/category/example-projects",
+              "path": "/docs/category/example-projects",
+              "sidebar": "javascriptSidebar"
+            },
+            {
+              "id": "/category/beginner",
+              "path": "/docs/category/beginner",
+              "sidebar": "javascriptSidebar"
             }
           ],
           "draftIds": [],
@@ -105,6 +125,12 @@
               "link": {
                 "path": "/docs/algebra-1/overview",
                 "label": "algebra-1/overview"
+              }
+            },
+            "javascriptSidebar": {
+              "link": {
+                "path": "/docs/javascript/overview",
+                "label": "javascript/overview"
               }
             }
           }
