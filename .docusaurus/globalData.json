@@ -36,6 +36,16 @@
               "sidebar": "geometrySidebar"
             },
             {
+              "id": "csp/big-o/big-o",
+              "path": "/docs/csp/big-o/",
+              "sidebar": "cspSidebar"
+            },
+            {
+              "id": "csp/overview",
+              "path": "/docs/csp/overview",
+              "sidebar": "cspSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro"
             },
@@ -97,6 +107,11 @@
               "sidebar": "geometrySidebar"
             },
             {
+              "id": "/category/big-o-notation",
+              "path": "/docs/category/big-o-notation",
+              "sidebar": "cspSidebar"
+            },
+            {
               "id": "/category/example-projects",
               "path": "/docs/category/example-projects",
               "sidebar": "javascriptSidebar"
@@ -125,6 +140,12 @@
               "link": {
                 "path": "/docs/algebra-1/overview",
                 "label": "algebra-1/overview"
+              }
+            },
+            "cspSidebar": {
+              "link": {
+                "path": "/docs/csp/overview",
+                "label": "csp/overview"
               }
             },
             "javascriptSidebar": {

@@ -1,0 +1,16 @@
+{
+  "title": "Big O Notation",
+  "description": "Big O notation is used for analyzing the runtimes (and space) complexities of algorithms.",
+  "slug": "/category/big-o-notation",
+  "permalink": "/docs/category/big-o-notation",
+  "navigation": {
+    "previous": {
+      "title": "Binary",
+      "permalink": "/docs/csp/overview"
+    },
+    "next": {
+      "title": "Intro to Runtime Complexity",
+      "permalink": "/docs/csp/big-o/"
+    }
+  }
+}

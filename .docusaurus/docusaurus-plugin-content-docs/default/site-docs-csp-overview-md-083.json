@@ -1,0 +1,24 @@
+{
+  "id": "csp/overview",
+  "title": "Binary",
+  "description": "What is Binary?",
+  "source": "@site/docs/csp/overview.md",
+  "sourceDirName": "csp",
+  "slug": "/csp/overview",
+  "permalink": "/docs/csp/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "cspSidebar",
+  "next": {
+    "title": "Big O Notation",
+    "permalink": "/docs/category/big-o-notation"
+  }
+}

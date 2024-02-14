@@ -1,0 +1,16 @@
+{
+  "title": "Example Projects",
+  "description": "Example JavaScript projects, from beginner to hard level!",
+  "slug": "/category/example-projects",
+  "permalink": "/docs/category/example-projects",
+  "navigation": {
+    "previous": {
+      "title": "Binary",
+      "permalink": "/docs/csp/overview"
+    },
+    "next": {
+      "title": "Beginner",
+      "permalink": "/docs/category/beginner"
+    }
+  }
+}

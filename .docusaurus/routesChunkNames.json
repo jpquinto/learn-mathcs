@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-17e": {
+  "/docs-5f8": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsee-3-1b6"
     }
   },
-  "/docs-54e": {
+  "/docs-afb": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-816": {
+  "/docs-757": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/algebra-1/chapter-6/6-1-fa5": {
@@ -84,7 +84,11 @@
   },
   "/docs/category/beginner-c83": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-beginner-1-f-9-b8c"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-beginner-11-f-9-30f"
+  },
+  "/docs/category/big-o-notation-644": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-big-o-notation-1-ac-406"
   },
   "/docs/category/chapter-6-717": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -100,7 +104,15 @@
   },
   "/docs/category/example-projects-624": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-example-projects-087-339"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-example-projects-1087-42a"
+  },
+  "/docs/csp/big-o/-3ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-csp-big-o-7-a-6-cac"
+  },
+  "/docs/csp/overview-e65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-csp-overview-083-f9c"
   },
   "/docs/intro-e84": {
     "__comp": "__comp---theme-doc-item-178-a40",

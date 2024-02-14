@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '17e'),
+    component: ComponentCreator('/docs', '5f8'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '54e'),
+        component: ComponentCreator('/docs', 'afb'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '816'),
+            component: ComponentCreator('/docs', '757'),
             routes: [
               {
                 path: '/docs/algebra-1/chapter-6/6-1',
@@ -91,6 +91,12 @@ export default [
                 sidebar: "javascriptSidebar"
               },
               {
+                path: '/docs/category/big-o-notation',
+                component: ComponentCreator('/docs/category/big-o-notation', '644'),
+                exact: true,
+                sidebar: "cspSidebar"
+              },
+              {
                 path: '/docs/category/chapter-6',
                 component: ComponentCreator('/docs/category/chapter-6', '717'),
                 exact: true,
@@ -113,6 +119,18 @@ export default [
                 component: ComponentCreator('/docs/category/example-projects', '624'),
                 exact: true,
                 sidebar: "javascriptSidebar"
+              },
+              {
+                path: '/docs/csp/big-o/',
+                component: ComponentCreator('/docs/csp/big-o/', '3ce'),
+                exact: true,
+                sidebar: "cspSidebar"
+              },
+              {
+                path: '/docs/csp/overview',
+                component: ComponentCreator('/docs/csp/overview', 'e65'),
+                exact: true,
+                sidebar: "cspSidebar"
               },
               {
                 path: '/docs/intro',

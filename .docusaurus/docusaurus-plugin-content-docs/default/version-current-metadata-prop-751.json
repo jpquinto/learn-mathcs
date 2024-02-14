@@ -146,6 +146,31 @@
         "href": "/docs/category/chapter-6-2"
       }
     ],
+    "cspSidebar": [
+      {
+        "type": "link",
+        "label": "Binary",
+        "href": "/docs/csp/overview",
+        "docId": "csp/overview",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Big O Notation",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Intro to Runtime Complexity",
+            "href": "/docs/csp/big-o/",
+            "docId": "csp/big-o/big-o",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/big-o-notation"
+      }
+    ],
     "javascriptSidebar": [
       {
         "type": "link",
@@ -211,6 +236,18 @@
       "title": "Algebra 1: Overview",
       "description": "The textbook used for this website's Algebra 1 content is Big Ideas Math Algebra 1.",
       "sidebar": "geometrySidebar"
+    },
+    "csp/big-o/big-o": {
+      "id": "csp/big-o/big-o",
+      "title": "Intro to Runtime Complexity",
+      "description": "What is $O(n)$?",
+      "sidebar": "cspSidebar"
+    },
+    "csp/overview": {
+      "id": "csp/overview",
+      "title": "Binary",
+      "description": "What is Binary?",
+      "sidebar": "cspSidebar"
     },
     "intro": {
       "id": "intro",

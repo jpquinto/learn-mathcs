@@ -71,9 +71,9 @@ export default {
         },
         {
           "type": "docSidebar",
-          "sidebarId": "algebra2Sidebar",
+          "sidebarId": "cspSidebar",
           "position": "left",
-          "label": "Algebra 2"
+          "label": "Comp Sci Principles"
         },
         {
           "type": "docSidebar",

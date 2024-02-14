@@ -1,0 +1,24 @@
+{
+  "id": "csp/big-o/big-o",
+  "title": "Intro to Runtime Complexity",
+  "description": "What is $O(n)$?",
+  "source": "@site/docs/csp/big-o/big-o.md",
+  "sourceDirName": "csp/big-o",
+  "slug": "/csp/big-o/",
+  "permalink": "/docs/csp/big-o/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "cspSidebar",
+  "previous": {
+    "title": "Big O Notation",
+    "permalink": "/docs/category/big-o-notation"
+  }
+}
