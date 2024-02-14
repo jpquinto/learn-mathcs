@@ -1,0 +1,470 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\sidebars.js",
+          "contentPath": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\docs",
+          "contentPathLocalized": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "algebra-1/chapter-6/6-1",
+              "title": "6.1: Properties of Exponents",
+              "description": "In the realm of algebra, exponents serve as fundamental tools that simplify and manipulate expressions involving repeated multiplication. Mastering the rules of exponents is crucial for effectively solving equations and simplifying expressions.",
+              "source": "@site/docs/algebra-1/chapter-6/6-1.md",
+              "sourceDirName": "algebra-1/chapter-6",
+              "slug": "/algebra-1/chapter-6/6-1",
+              "permalink": "/docs/algebra-1/chapter-6/6-1",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "geometrySidebar",
+              "previous": {
+                "title": "Chapter 6",
+                "permalink": "/docs/category/chapter-6-2"
+              },
+              "next": {
+                "title": "6.2: Radicals and Rational Exponents",
+                "permalink": "/docs/algebra-1/chapter-6/6-2"
+              }
+            },
+            {
+              "id": "algebra-1/chapter-6/6-2",
+              "title": "6.2: Radicals and Rational Exponents",
+              "description": "In algebra, rational and radical exponents play a crucial role in expanding our understanding of mathematical expressions.",
+              "source": "@site/docs/algebra-1/chapter-6/6-2.md",
+              "sourceDirName": "algebra-1/chapter-6",
+              "slug": "/algebra-1/chapter-6/6-2",
+              "permalink": "/docs/algebra-1/chapter-6/6-2",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "geometrySidebar",
+              "previous": {
+                "title": "6.1: Properties of Exponents",
+                "permalink": "/docs/algebra-1/chapter-6/6-1"
+              },
+              "next": {
+                "title": "6.3: Exponential Functions",
+                "permalink": "/docs/algebra-1/chapter-6/6-3"
+              }
+            },
+            {
+              "id": "algebra-1/chapter-6/6-3",
+              "title": "6.3: Exponential Functions",
+              "description": "For those familiar with linear functions, delving into exponential functions introduces a new realm of mathematical relationships. While linear functions grow steadily by a constant rate, exponential functions exhibit rapid growth or decay, governed by a constant factor. Let's explore the key differences between exponential and linear functions:",
+              "source": "@site/docs/algebra-1/chapter-6/6-3.md",
+              "sourceDirName": "algebra-1/chapter-6",
+              "slug": "/algebra-1/chapter-6/6-3",
+              "permalink": "/docs/algebra-1/chapter-6/6-3",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "geometrySidebar",
+              "previous": {
+                "title": "6.2: Radicals and Rational Exponents",
+                "permalink": "/docs/algebra-1/chapter-6/6-2"
+              },
+              "next": {
+                "title": "6.1 - 6.3 Quiz",
+                "permalink": "/docs/algebra-1/chapter-6/6-3-quiz"
+              }
+            },
+            {
+              "id": "algebra-1/chapter-6/6-3-quiz",
+              "title": "6.1 - 6.3 Quiz",
+              "description": "Evaluate the following exponents.",
+              "source": "@site/docs/algebra-1/chapter-6/6-3-quiz.md",
+              "sourceDirName": "algebra-1/chapter-6",
+              "slug": "/algebra-1/chapter-6/6-3-quiz",
+              "permalink": "/docs/algebra-1/chapter-6/6-3-quiz",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "geometrySidebar",
+              "previous": {
+                "title": "6.3: Exponential Functions",
+                "permalink": "/docs/algebra-1/chapter-6/6-3"
+              }
+            },
+            {
+              "id": "algebra-1/overview",
+              "title": "Overview",
+              "description": "The textbook used for this website's Algebra 1 content is Big Ideas Math Algebra 1.",
+              "source": "@site/docs/algebra-1/overview.md",
+              "sourceDirName": "algebra-1",
+              "slug": "/algebra-1/overview",
+              "permalink": "/docs/algebra-1/overview",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "geometrySidebar",
+              "next": {
+                "title": "Chapter 6",
+                "permalink": "/docs/category/chapter-6-2"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Welcome!",
+              "description": "Welcome to my brand new website for tutoring! Find practice problems, resources, and (maybe in the future) videos to supplement our tutoring sessions!",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              }
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/tutorial-basics/congratulations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratulations",
+              "permalink": "/docs/tutorial-basics/congratulations",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              }
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-blog-post",
+              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              }
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/tutorial-basics/create-a-document.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-document",
+              "permalink": "/docs/tutorial-basics/create-a-document",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              }
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/tutorial-basics/create-a-page.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-page",
+              "permalink": "/docs/tutorial-basics/create-a-page",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              }
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/deploy-your-site",
+              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              }
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/markdown-features",
+              "permalink": "/docs/tutorial-basics/markdown-features",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              }
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              }
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "algebra1Sidebar": [
+              {
+                "type": "doc",
+                "id": "algebra-1/overview"
+              },
+              {
+                "type": "category",
+                "label": "Chapter 6",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-3-quiz"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/chapter-6",
+                  "permalink": "/docs/category/chapter-6"
+                }
+              }
+            ],
+            "algebra2Sidebar": [
+              {
+                "type": "doc",
+                "id": "algebra-1/overview"
+              },
+              {
+                "type": "category",
+                "label": "Chapter 6",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-3-quiz"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/chapter-6-1",
+                  "permalink": "/docs/category/chapter-6-1"
+                }
+              }
+            ],
+            "geometrySidebar": [
+              {
+                "type": "doc",
+                "id": "algebra-1/overview"
+              },
+              {
+                "type": "category",
+                "label": "Chapter 6",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "algebra-1/chapter-6/6-3-quiz"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/chapter-6-2",
+                  "permalink": "/docs/category/chapter-6-2"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

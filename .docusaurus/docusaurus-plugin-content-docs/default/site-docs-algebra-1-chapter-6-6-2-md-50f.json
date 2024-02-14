@@ -1,0 +1,28 @@
+{
+  "id": "algebra-1/chapter-6/6-2",
+  "title": "6.2: Radicals and Rational Exponents",
+  "description": "In algebra, rational and radical exponents play a crucial role in expanding our understanding of mathematical expressions.",
+  "source": "@site/docs/algebra-1/chapter-6/6-2.md",
+  "sourceDirName": "algebra-1/chapter-6",
+  "slug": "/algebra-1/chapter-6/6-2",
+  "permalink": "/docs/algebra-1/chapter-6/6-2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "geometrySidebar",
+  "previous": {
+    "title": "6.1: Properties of Exponents",
+    "permalink": "/docs/algebra-1/chapter-6/6-1"
+  },
+  "next": {
+    "title": "6.3: Exponential Functions",
+    "permalink": "/docs/algebra-1/chapter-6/6-3"
+  }
+}

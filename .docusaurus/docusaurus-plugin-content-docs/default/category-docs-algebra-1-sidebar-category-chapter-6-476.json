@@ -1,0 +1,15 @@
+{
+  "title": "Chapter 6",
+  "slug": "/category/chapter-6",
+  "permalink": "/docs/category/chapter-6",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/algebra-1/overview"
+    },
+    "next": {
+      "title": "6.1: Properties of Exponents",
+      "permalink": "/docs/algebra-1/chapter-6/6-1"
+    }
+  }
+}

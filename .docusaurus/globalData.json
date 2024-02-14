@@ -1,0 +1,116 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "algebra-1/overview",
+          "docs": [
+            {
+              "id": "algebra-1/chapter-6/6-1",
+              "path": "/docs/algebra-1/chapter-6/6-1",
+              "sidebar": "geometrySidebar"
+            },
+            {
+              "id": "algebra-1/chapter-6/6-2",
+              "path": "/docs/algebra-1/chapter-6/6-2",
+              "sidebar": "geometrySidebar"
+            },
+            {
+              "id": "algebra-1/chapter-6/6-3",
+              "path": "/docs/algebra-1/chapter-6/6-3",
+              "sidebar": "geometrySidebar"
+            },
+            {
+              "id": "algebra-1/chapter-6/6-3-quiz",
+              "path": "/docs/algebra-1/chapter-6/6-3-quiz",
+              "sidebar": "geometrySidebar"
+            },
+            {
+              "id": "algebra-1/overview",
+              "path": "/docs/algebra-1/overview",
+              "sidebar": "geometrySidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            },
+            {
+              "id": "/category/chapter-6",
+              "path": "/docs/category/chapter-6",
+              "sidebar": "algebra1Sidebar"
+            },
+            {
+              "id": "/category/chapter-6-1",
+              "path": "/docs/category/chapter-6-1",
+              "sidebar": "algebra2Sidebar"
+            },
+            {
+              "id": "/category/chapter-6-2",
+              "path": "/docs/category/chapter-6-2",
+              "sidebar": "geometrySidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "algebra1Sidebar": {
+              "link": {
+                "path": "/docs/algebra-1/overview",
+                "label": "algebra-1/overview"
+              }
+            },
+            "algebra2Sidebar": {
+              "link": {
+                "path": "/docs/algebra-1/overview",
+                "label": "algebra-1/overview"
+              }
+            },
+            "geometrySidebar": {
+              "link": {
+                "path": "/docs/algebra-1/overview",
+                "label": "algebra-1/overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

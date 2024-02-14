@@ -1,0 +1,28 @@
+{
+  "id": "algebra-1/chapter-6/6-3",
+  "title": "6.3: Exponential Functions",
+  "description": "For those familiar with linear functions, delving into exponential functions introduces a new realm of mathematical relationships. While linear functions grow steadily by a constant rate, exponential functions exhibit rapid growth or decay, governed by a constant factor. Let's explore the key differences between exponential and linear functions:",
+  "source": "@site/docs/algebra-1/chapter-6/6-3.md",
+  "sourceDirName": "algebra-1/chapter-6",
+  "slug": "/algebra-1/chapter-6/6-3",
+  "permalink": "/docs/algebra-1/chapter-6/6-3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "geometrySidebar",
+  "previous": {
+    "title": "6.2: Radicals and Rational Exponents",
+    "permalink": "/docs/algebra-1/chapter-6/6-2"
+  },
+  "next": {
+    "title": "6.1 - 6.3 Quiz",
+    "permalink": "/docs/algebra-1/chapter-6/6-3-quiz"
+  }
+}

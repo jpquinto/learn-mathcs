@@ -1,0 +1,24 @@
+{
+  "id": "algebra-1/chapter-6/6-3-quiz",
+  "title": "6.1 - 6.3 Quiz",
+  "description": "Evaluate the following exponents.",
+  "source": "@site/docs/algebra-1/chapter-6/6-3-quiz.md",
+  "sourceDirName": "algebra-1/chapter-6",
+  "slug": "/algebra-1/chapter-6/6-3-quiz",
+  "permalink": "/docs/algebra-1/chapter-6/6-3-quiz",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "geometrySidebar",
+  "previous": {
+    "title": "6.3: Exponential Functions",
+    "permalink": "/docs/algebra-1/chapter-6/6-3"
+  }
+}
