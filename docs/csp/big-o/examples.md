@@ -216,3 +216,11 @@ function dijkstra(graph, start) {
 - Therefore, the overall time complexity of Dijkstra's algorithm depends on the implementation of the priority queue. With a binary heap-based priority queue, the time complexity is $O((|V| + |E|) \log |V|)$, where $|V|$ is the number of vertices and $|E|$ is the number of edges in the graph.
 
 This time complexity indicates that Dijkstra's algorithm is efficient for sparse graphs (where $|E|$ is much smaller than $|V|^2$), as the priority queue operations dominate the time complexity. However, for dense graphs, other algorithms such as **Bellman-Ford** may be more suitable, but we'll talk about that later.
+
+## Note
+
+Just because an algorithm is, say, $O(\log n)$, DOES NOT mean it will ALWAYS run faster than an $O(n)$ algorithm. Remember that Big O provides an **upper bound**. 
+
+For example, let's say the $O(n)$ is a linear search on an array. This algorithm could run in 1 operation, if the item it is searching for is the first element in the array. Meawhile, say the $O(\log n)$ algorithm is binary search. This algorithm could takes $\log n$ operations in the worst case. 
+
+With this being said, it is still important to be able to determine the worst case scenarios for any algorithms. And furthermore, the best and average cases. We'll go over that next.
