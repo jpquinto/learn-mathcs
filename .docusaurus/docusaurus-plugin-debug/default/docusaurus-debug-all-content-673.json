@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\sidebars.js",
-          "contentPath": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\docs",
-          "contentPathLocalized": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "/Users/jeremypq/Desktop/jeremy-quinto-tutoring/sidebars.js",
+          "contentPath": "/Users/jeremypq/Desktop/jeremy-quinto-tutoring/docs",
+          "contentPathLocalized": "/Users/jeremypq/Desktop/jeremy-quinto-tutoring/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "id": "algebra-1/chapter-6/6-1",

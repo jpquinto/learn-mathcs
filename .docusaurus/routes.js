@@ -4,47 +4,47 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'b9e'),
+    component: ComponentCreator('/__docusaurus/debug', '4bf'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '0a3'),
+    component: ComponentCreator('/__docusaurus/debug/config', '115'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'd07'),
+    component: ComponentCreator('/__docusaurus/debug/content', '60d'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'b30'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '86b'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '7b9'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '658'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'cb8'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '94e'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'fcd'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '05a'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'f18'),
+    component: ComponentCreator('/markdown-page', '03e'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7b3'),
+    component: ComponentCreator('/docs', 'e48'),
     routes: [
       {
         path: '/docs',
@@ -233,7 +233,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '678'),
+    component: ComponentCreator('/', 'c64'),
     exact: true
   },
   {
