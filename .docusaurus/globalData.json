@@ -41,8 +41,33 @@
               "sidebar": "cspSidebar"
             },
             {
+              "id": "csp/big-o/big-theta-and-omega",
+              "path": "/docs/csp/big-o/big-theta-and-omega",
+              "sidebar": "cspSidebar"
+            },
+            {
+              "id": "csp/big-o/comparisons",
+              "path": "/docs/csp/big-o/comparisons",
+              "sidebar": "cspSidebar"
+            },
+            {
+              "id": "csp/big-o/examples",
+              "path": "/docs/csp/big-o/examples",
+              "sidebar": "cspSidebar"
+            },
+            {
               "id": "csp/big-o/mathematical-definition",
               "path": "/docs/csp/big-o/mathematical-definition",
+              "sidebar": "cspSidebar"
+            },
+            {
+              "id": "csp/big-o/space-complexity",
+              "path": "/docs/csp/big-o/space-complexity",
+              "sidebar": "cspSidebar"
+            },
+            {
+              "id": "csp/big-o/space-examples",
+              "path": "/docs/csp/big-o/space-examples",
               "sidebar": "cspSidebar"
             },
             {

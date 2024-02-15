@@ -1,0 +1,28 @@
+{
+  "id": "csp/big-o/examples",
+  "title": "Runtime Analysis Examples",
+  "description": "Linear Search",
+  "source": "@site/docs/csp/big-o/examples.md",
+  "sourceDirName": "csp/big-o",
+  "slug": "/csp/big-o/examples",
+  "permalink": "/docs/csp/big-o/examples",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "cspSidebar",
+  "previous": {
+    "title": "Formal (Mathematical) Definition",
+    "permalink": "/docs/csp/big-o/mathematical-definition"
+  },
+  "next": {
+    "title": "Big Omega and Big Theta",
+    "permalink": "/docs/csp/big-o/big-theta-and-omega"
+  }
+}

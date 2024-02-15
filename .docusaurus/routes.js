@@ -4,55 +4,55 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '4bf'),
+    component: ComponentCreator('/__docusaurus/debug', 'b9e'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '115'),
+    component: ComponentCreator('/__docusaurus/debug/config', '0a3'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '60d'),
+    component: ComponentCreator('/__docusaurus/debug/content', 'd07'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '86b'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'b30'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '658'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '7b9'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '94e'),
+    component: ComponentCreator('/__docusaurus/debug/registry', 'cb8'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '05a'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'fcd'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '03e'),
+    component: ComponentCreator('/markdown-page', 'f18'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7e0'),
+    component: ComponentCreator('/docs', '7b3'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '050'),
+        component: ComponentCreator('/docs', '698'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '763'),
+            component: ComponentCreator('/docs', '09e'),
             routes: [
               {
                 path: '/docs/algebra-1/chapter-6/6-1',
@@ -127,8 +127,38 @@ export default [
                 sidebar: "cspSidebar"
               },
               {
+                path: '/docs/csp/big-o/big-theta-and-omega',
+                component: ComponentCreator('/docs/csp/big-o/big-theta-and-omega', 'a0f'),
+                exact: true,
+                sidebar: "cspSidebar"
+              },
+              {
+                path: '/docs/csp/big-o/comparisons',
+                component: ComponentCreator('/docs/csp/big-o/comparisons', '442'),
+                exact: true,
+                sidebar: "cspSidebar"
+              },
+              {
+                path: '/docs/csp/big-o/examples',
+                component: ComponentCreator('/docs/csp/big-o/examples', '873'),
+                exact: true,
+                sidebar: "cspSidebar"
+              },
+              {
                 path: '/docs/csp/big-o/mathematical-definition',
                 component: ComponentCreator('/docs/csp/big-o/mathematical-definition', 'dca'),
+                exact: true,
+                sidebar: "cspSidebar"
+              },
+              {
+                path: '/docs/csp/big-o/space-complexity',
+                component: ComponentCreator('/docs/csp/big-o/space-complexity', '576'),
+                exact: true,
+                sidebar: "cspSidebar"
+              },
+              {
+                path: '/docs/csp/big-o/space-examples',
+                component: ComponentCreator('/docs/csp/big-o/space-examples', 'b15'),
                 exact: true,
                 sidebar: "cspSidebar"
               },
@@ -203,7 +233,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'c64'),
+    component: ComponentCreator('/', '678'),
     exact: true
   },
   {

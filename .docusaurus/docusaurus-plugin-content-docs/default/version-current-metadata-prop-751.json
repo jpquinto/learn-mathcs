@@ -169,9 +169,44 @@
           },
           {
             "type": "link",
-            "label": "Mathematical Definition of Big O Notation",
+            "label": "Formal (Mathematical) Definition",
             "href": "/docs/csp/big-o/mathematical-definition",
             "docId": "csp/big-o/mathematical-definition",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Runtime Analysis Examples",
+            "href": "/docs/csp/big-o/examples",
+            "docId": "csp/big-o/examples",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Big Omega and Big Theta",
+            "href": "/docs/csp/big-o/big-theta-and-omega",
+            "docId": "csp/big-o/big-theta-and-omega",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Comparing Different Algorithms",
+            "href": "/docs/csp/big-o/comparisons",
+            "docId": "csp/big-o/comparisons",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Space Complexity",
+            "href": "/docs/csp/big-o/space-complexity",
+            "docId": "csp/big-o/space-complexity",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Space Analysis Examples",
+            "href": "/docs/csp/big-o/space-examples",
+            "docId": "csp/big-o/space-examples",
             "unlisted": false
           }
         ],
@@ -250,10 +285,40 @@
       "description": "What is Runtime Complexity?",
       "sidebar": "cspSidebar"
     },
+    "csp/big-o/big-theta-and-omega": {
+      "id": "csp/big-o/big-theta-and-omega",
+      "title": "Big Omega and Big Theta",
+      "description": "Alright, we've learned a decent bit about Big O. But have you ever heard someone mention Big $\\Theta$ or Big $\\Omega$? What are they?",
+      "sidebar": "cspSidebar"
+    },
+    "csp/big-o/comparisons": {
+      "id": "csp/big-o/comparisons",
+      "title": "Comparing Different Algorithms",
+      "description": "When choosing data structures for your project, it's important to know the runtimes of the different operations you complete on the data structure. Right now, we'll take a look at and compare the runtimes of Arrays and LinkedLists.",
+      "sidebar": "cspSidebar"
+    },
+    "csp/big-o/examples": {
+      "id": "csp/big-o/examples",
+      "title": "Runtime Analysis Examples",
+      "description": "Linear Search",
+      "sidebar": "cspSidebar"
+    },
     "csp/big-o/mathematical-definition": {
       "id": "csp/big-o/mathematical-definition",
-      "title": "Mathematical Definition of Big O Notation",
+      "title": "Formal (Mathematical) Definition",
       "description": "Remember that there's quite a bit of math involved in computer science! Computer science is basically a field of mathematics, so you'll probably run into a lot of mathematical theory in coding. Get used to it!",
+      "sidebar": "cspSidebar"
+    },
+    "csp/big-o/space-complexity": {
+      "id": "csp/big-o/space-complexity",
+      "title": "Space Complexity",
+      "description": "Space complexity refers to the amount of memory space required by an algorithm or a program to execute as a function of the input size. It is a measure of how efficiently an algorithm utilizes memory resources.",
+      "sidebar": "cspSidebar"
+    },
+    "csp/big-o/space-examples": {
+      "id": "csp/big-o/space-examples",
+      "title": "Space Analysis Examples",
+      "description": "Linear Search",
       "sidebar": "cspSidebar"
     },
     "csp/overview": {
