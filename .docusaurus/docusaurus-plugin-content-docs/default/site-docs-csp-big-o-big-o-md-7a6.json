@@ -1,7 +1,7 @@
 {
   "id": "csp/big-o/big-o",
   "title": "Intro to Runtime Complexity",
-  "description": "What is $O(n)$?",
+  "description": "What is Runtime Complexity?",
   "source": "@site/docs/csp/big-o/big-o.md",
   "sourceDirName": "csp/big-o",
   "slug": "/csp/big-o/",
@@ -20,5 +20,9 @@
   "previous": {
     "title": "Big O Notation",
     "permalink": "/docs/category/big-o-notation"
+  },
+  "next": {
+    "title": "Mathematical Definition of Big O Notation",
+    "permalink": "/docs/csp/big-o/mathematical-definition"
   }
 }

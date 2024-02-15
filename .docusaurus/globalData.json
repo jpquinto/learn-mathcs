@@ -41,6 +41,11 @@
               "sidebar": "cspSidebar"
             },
             {
+              "id": "csp/big-o/mathematical-definition",
+              "path": "/docs/csp/big-o/mathematical-definition",
+              "sidebar": "cspSidebar"
+            },
+            {
               "id": "csp/overview",
               "path": "/docs/csp/overview",
               "sidebar": "cspSidebar"

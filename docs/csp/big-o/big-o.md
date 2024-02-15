@@ -4,13 +4,13 @@ sidebar_position: 1
 
 # Intro to Runtime Complexity
 
-## What is $O(n)$?
+## What is Runtime Complexity?
 
 Have you ever seen somebody say their code runs in $O(n)$ time? Depending on what the algorithm does, that person could be flexing on you, but what does this mean?
 
 **Runtime complexity**, also known as time complexity, is a concept in computer science that describes the amount of time an algorithm takes to execute as a *function of the length of the input*. It provides an estimate of how the execution time of an algorithm grows with the size of the input data.
 
-Runtime complexity is typically expressed using **Big O** notation, which gives an **upper bound** on the growth rate of an algorithm's runtime as the input size increases. For example, an algorithm with a time complexity of $O(n)$ means that its runtime increases linearly with the size of the input (denoted by '$n$'). Similarly, an algorithm with a time complexity of $O(n^2)$ indicates that its runtime grows quadratically with the input size.
+Runtime complexity is expressed using **Big O** notation, which gives an **upper bound** on the growth rate of an algorithm's runtime as the input size increases. For example, an algorithm with a time complexity of $O(n)$ means that its runtime increases linearly with the size of the input (denoted by '$n$'). Similarly, an algorithm with a time complexity of $O(n^2)$ indicates that its runtime grows quadratically with the input size.
 
 Understanding the runtime complexity of an algorithm is *crucial* for analyzing its efficiency and scalability! Algorithms with lower time complexity are (generally) more efficient, as they can handle larger input sizes within a reasonable amount of time. 
 

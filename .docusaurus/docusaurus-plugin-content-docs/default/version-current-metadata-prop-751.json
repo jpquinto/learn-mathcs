@@ -166,6 +166,13 @@
             "href": "/docs/csp/big-o/",
             "docId": "csp/big-o/big-o",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Mathematical Definition of Big O Notation",
+            "href": "/docs/csp/big-o/mathematical-definition",
+            "docId": "csp/big-o/mathematical-definition",
+            "unlisted": false
           }
         ],
         "href": "/docs/category/big-o-notation"
@@ -240,7 +247,13 @@
     "csp/big-o/big-o": {
       "id": "csp/big-o/big-o",
       "title": "Intro to Runtime Complexity",
-      "description": "What is $O(n)$?",
+      "description": "What is Runtime Complexity?",
+      "sidebar": "cspSidebar"
+    },
+    "csp/big-o/mathematical-definition": {
+      "id": "csp/big-o/mathematical-definition",
+      "title": "Mathematical Definition of Big O Notation",
+      "description": "Remember that there's quite a bit of math involved in computer science! Computer science is basically a field of mathematics, so you'll probably run into a lot of mathematical theory in coding. Get used to it!",
       "sidebar": "cspSidebar"
     },
     "csp/overview": {

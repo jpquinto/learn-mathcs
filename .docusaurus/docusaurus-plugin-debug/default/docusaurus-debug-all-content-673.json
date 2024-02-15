@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\sidebars.js",
-          "contentPath": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\docs",
-          "contentPathLocalized": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "/Users/jeremypq/Desktop/jeremy-quinto-tutoring/sidebars.js",
+          "contentPath": "/Users/jeremypq/Desktop/jeremy-quinto-tutoring/docs",
+          "contentPathLocalized": "/Users/jeremypq/Desktop/jeremy-quinto-tutoring/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "id": "algebra-1/chapter-6/6-1",
@@ -152,7 +152,7 @@
             {
               "id": "csp/big-o/big-o",
               "title": "Intro to Runtime Complexity",
-              "description": "What is $O(n)$?",
+              "description": "What is Runtime Complexity?",
               "source": "@site/docs/csp/big-o/big-o.md",
               "sourceDirName": "csp/big-o",
               "slug": "/csp/big-o/",
@@ -171,6 +171,34 @@
               "previous": {
                 "title": "Big O Notation",
                 "permalink": "/docs/category/big-o-notation"
+              },
+              "next": {
+                "title": "Mathematical Definition of Big O Notation",
+                "permalink": "/docs/csp/big-o/mathematical-definition"
+              }
+            },
+            {
+              "id": "csp/big-o/mathematical-definition",
+              "title": "Mathematical Definition of Big O Notation",
+              "description": "Remember that there's quite a bit of math involved in computer science! Computer science is basically a field of mathematics, so you'll probably run into a lot of mathematical theory in coding. Get used to it!",
+              "source": "@site/docs/csp/big-o/mathematical-definition.md",
+              "sourceDirName": "csp/big-o",
+              "slug": "/csp/big-o/mathematical-definition",
+              "permalink": "/docs/csp/big-o/mathematical-definition",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "cspSidebar",
+              "previous": {
+                "title": "Intro to Runtime Complexity",
+                "permalink": "/docs/csp/big-o/"
               }
             },
             {
@@ -538,6 +566,10 @@
                   {
                     "type": "doc",
                     "id": "csp/big-o/big-o"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "csp/big-o/mathematical-definition"
                   }
                 ],
                 "link": {
