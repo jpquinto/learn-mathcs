@@ -62,7 +62,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'JPQ',
@@ -113,11 +112,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Courses',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Alegbra 1',
+                to: '/docs/algebra-1',
+              },
+              {
+                label: 'JavaScript',
+                to: '/docs/javascript',
+              },
+              {
+                label: 'Computer Science Principles',
+                to: '/docs/csp',
               },
             ],
           },
@@ -127,14 +134,6 @@ const config = {
               {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
               },
             ],
           },
@@ -147,12 +146,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/jpquinto',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} JQ Project, Inc. Built with Docusaurus.`,
+        copyright: `Jeremy Quinto Tutoring. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -100,11 +100,19 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Courses",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Alegbra 1",
+              "to": "/docs/algebra-1"
+            },
+            {
+              "label": "JavaScript",
+              "to": "/docs/javascript"
+            },
+            {
+              "label": "Computer Science Principles",
+              "to": "/docs/csp"
             }
           ]
         },
@@ -114,14 +122,6 @@ export default {
             {
               "label": "Stack Overflow",
               "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
             }
           ]
         },
@@ -134,12 +134,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/jpquinto"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2024 JQ Project, Inc. Built with Docusaurus."
+      "copyright": "Jeremy Quinto Tutoring. Built with Docusaurus."
     },
     "prism": {
       "theme": {
