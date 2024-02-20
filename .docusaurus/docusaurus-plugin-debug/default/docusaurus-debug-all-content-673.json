@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/jeremypq/Desktop/jeremy-quinto-tutoring/sidebars.js",
-          "contentPath": "/Users/jeremypq/Desktop/jeremy-quinto-tutoring/docs",
-          "contentPathLocalized": "/Users/jeremypq/Desktop/jeremy-quinto-tutoring/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\sidebars.js",
+          "contentPath": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\docs",
+          "contentPathLocalized": "C:\\Users\\Jeremy Quinto\\OneDrive\\Desktop\\jeremy-quinto-tutoring\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "algebra-1/chapter-6/6-1",
@@ -433,70 +433,13 @@
               }
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              }
-            },
-            {
-              "id": "tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              }
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              }
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
+              "id": "other/4th-grade/adding-fractions",
+              "title": "Adding and Simplifying Fractions Practice",
+              "description": "Adding Fractions",
+              "source": "@site/docs/other/4th-grade/adding-fractions.md",
+              "sourceDirName": "other/4th-grade",
+              "slug": "/other/4th-grade/adding-fractions",
+              "permalink": "/docs/other/4th-grade/adding-fractions",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -506,54 +449,17 @@
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
-              }
+              },
+              "sidebar": "otherSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              }
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              }
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "precalculus/intro-to-trig",
+              "title": "Intro to Trigonometry: Practice Problems",
+              "description": "Resources: Link/03%3ASolvingandTrigonometricFunctions/3.04%3AIntroductiontoTrigonometric_Functions)",
+              "source": "@site/docs/precalculus/intro-to-trig.md",
+              "sourceDirName": "precalculus",
+              "slug": "/precalculus/intro-to-trig",
+              "permalink": "/docs/precalculus/intro-to-trig",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -563,26 +469,8 @@
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
-              }
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              }
+              },
+              "sidebar": "precalculusSidebar"
             }
           ],
           "drafts": [],
@@ -776,6 +664,26 @@
                   "slug": "/category/example-projects",
                   "permalink": "/docs/category/example-projects"
                 }
+              }
+            ],
+            "precalculusSidebar": [
+              {
+                "type": "doc",
+                "id": "precalculus/intro-to-trig"
+              }
+            ],
+            "otherSidebar": [
+              {
+                "type": "category",
+                "label": "4th-grade",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "other/4th-grade/adding-fractions"
+                  }
+                ]
               }
             ]
           }

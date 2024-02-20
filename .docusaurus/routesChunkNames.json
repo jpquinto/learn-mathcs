@@ -1,65 +1,65 @@
 {
-  "/__docusaurus/debug-4bf": {
+  "/__docusaurus/debug-b9e": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugadc-564"
+      "plugin": "plugin---docusaurus-debug-355-745"
     }
   },
-  "/__docusaurus/debug/config-115": {
+  "/__docusaurus/debug/config-0a3": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugadc-564"
+      "plugin": "plugin---docusaurus-debug-355-745"
     }
   },
-  "/__docusaurus/debug/content-60d": {
+  "/__docusaurus/debug/content-d07": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugadc-564"
+      "plugin": "plugin---docusaurus-debug-355-745"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-86b": {
+  "/__docusaurus/debug/globalData-b30": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugadc-564"
+      "plugin": "plugin---docusaurus-debug-355-745"
     }
   },
-  "/__docusaurus/debug/metadata-658": {
+  "/__docusaurus/debug/metadata-7b9": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugadc-564"
+      "plugin": "plugin---docusaurus-debug-355-745"
     }
   },
-  "/__docusaurus/debug/registry-94e": {
+  "/__docusaurus/debug/registry-cb8": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugadc-564"
+      "plugin": "plugin---docusaurus-debug-355-745"
     }
   },
-  "/__docusaurus/debug/routes-05a": {
+  "/__docusaurus/debug/routes-fcd": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugadc-564"
+      "plugin": "plugin---docusaurus-debug-355-745"
     }
   },
-  "/markdown-page-03e": {
+  "/markdown-page-f18": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-page-362-3d1"
+      "plugin": "plugin---markdown-pagee-4-f-979"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-e48": {
+  "/docs-ebd": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docs-89-b-0d7"
+      "plugin": "plugin---docsee-3-1b6"
     }
   },
-  "/docs-698": {
+  "/docs-cac": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-09e": {
+  "/docs-f73": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/algebra-1/chapter-6/6-1-fa5": {
@@ -150,42 +150,18 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-javascript-overviewf-86-ef7"
   },
-  "/docs/tutorial-basics/congratulations-7ef": {
+  "/docs/other/4th-grade/adding-fractions-247": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "content": "content---docs-other-4th-grade-adding-fractions-1-cc-9bf"
   },
-  "/docs/tutorial-basics/create-a-blog-post-2c8": {
+  "/docs/precalculus/intro-to-trig-da0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+    "content": "content---docs-precalculus-intro-to-trige-1-a-fb3"
   },
-  "/docs/tutorial-basics/create-a-document-f0d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/docs/tutorial-basics/create-a-page-ca5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
-  "/docs/tutorial-basics/deploy-your-site-508": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/docs/tutorial-basics/markdown-features-f90": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
-  },
-  "/docs/tutorial-extras/manage-docs-versions-d64": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
-  },
-  "/docs/tutorial-extras/translate-your-site-16a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
-  },
-  "/-c64": {
+  "/-678": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-page-362-3d1"
+      "plugin": "plugin---markdown-pagee-4-f-979"
     },
     "config": "config---5-e-9-4f3"
   }

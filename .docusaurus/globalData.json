@@ -90,36 +90,14 @@
               "sidebar": "javascriptSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations"
+              "id": "other/4th-grade/adding-fractions",
+              "path": "/docs/other/4th-grade/adding-fractions",
+              "sidebar": "otherSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post"
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document"
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site"
+              "id": "precalculus/intro-to-trig",
+              "path": "/docs/precalculus/intro-to-trig",
+              "sidebar": "precalculusSidebar"
             },
             {
               "id": "/category/chapter-6",
@@ -182,6 +160,18 @@
               "link": {
                 "path": "/docs/javascript/overview",
                 "label": "javascript/overview"
+              }
+            },
+            "precalculusSidebar": {
+              "link": {
+                "path": "/docs/precalculus/intro-to-trig",
+                "label": "precalculus/intro-to-trig"
+              }
+            },
+            "otherSidebar": {
+              "link": {
+                "path": "/docs/other/4th-grade/adding-fractions",
+                "label": "other/4th-grade/adding-fractions"
               }
             }
           }

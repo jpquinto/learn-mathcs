@@ -4,55 +4,55 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '4bf'),
+    component: ComponentCreator('/__docusaurus/debug', 'b9e'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '115'),
+    component: ComponentCreator('/__docusaurus/debug/config', '0a3'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '60d'),
+    component: ComponentCreator('/__docusaurus/debug/content', 'd07'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '86b'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'b30'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '658'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '7b9'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '94e'),
+    component: ComponentCreator('/__docusaurus/debug/registry', 'cb8'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '05a'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'fcd'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '03e'),
+    component: ComponentCreator('/markdown-page', 'f18'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e48'),
+    component: ComponentCreator('/docs', 'ebd'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '698'),
+        component: ComponentCreator('/docs', 'cac'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '09e'),
+            component: ComponentCreator('/docs', 'f73'),
             routes: [
               {
                 path: '/docs/algebra-1/chapter-6/6-1',
@@ -186,44 +186,16 @@ export default [
                 sidebar: "javascriptSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '7ef'),
-                exact: true
+                path: '/docs/other/4th-grade/adding-fractions',
+                component: ComponentCreator('/docs/other/4th-grade/adding-fractions', '247'),
+                exact: true,
+                sidebar: "otherSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '2c8'),
-                exact: true
-              },
-              {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'f0d'),
-                exact: true
-              },
-              {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'ca5'),
-                exact: true
-              },
-              {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '508'),
-                exact: true
-              },
-              {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'f90'),
-                exact: true
-              },
-              {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'd64'),
-                exact: true
-              },
-              {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '16a'),
-                exact: true
+                path: '/docs/precalculus/intro-to-trig',
+                component: ComponentCreator('/docs/precalculus/intro-to-trig', 'da0'),
+                exact: true,
+                sidebar: "precalculusSidebar"
               }
             ]
           }
@@ -233,7 +205,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'c64'),
+    component: ComponentCreator('/', '678'),
     exact: true
   },
   {

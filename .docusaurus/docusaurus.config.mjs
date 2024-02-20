@@ -71,6 +71,12 @@ export default {
         },
         {
           "type": "docSidebar",
+          "sidebarId": "precalculusSidebar",
+          "position": "left",
+          "label": "Precalculus"
+        },
+        {
+          "type": "docSidebar",
           "sidebarId": "cspSidebar",
           "position": "left",
           "label": "Comp Sci Principles"
@@ -80,6 +86,12 @@ export default {
           "sidebarId": "javascriptSidebar",
           "position": "left",
           "label": "JavaScript"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarId": "otherSidebar",
+          "position": "left",
+          "label": "Other"
         }
       ],
       "hideOnScroll": false
