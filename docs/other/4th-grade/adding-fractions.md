@@ -96,6 +96,6 @@ $\frac{4}{11}$
 
 
 ### Word Problem
-Matthew buys 2 large pizzas from Asconas. The first pizza is Hawaiian, and is cut into 8 equal slices. The second is a Matterhorn, and is cut into 10 equal slices. 
+Matt buys 2 large pizzas from Asconas. The first pizza is Hawaiian, and is cut into 8 equal slices. The second is a Matterhorn, and is cut into 10 equal slices. 
 
 Jeremy takes 5 slices from the Hawaiian pizza and 4 slices from the Matterhorn. Did Jeremy eat more than a full large pizza in total? Why or why not.
