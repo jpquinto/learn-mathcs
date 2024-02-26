@@ -78,12 +78,6 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'geometrySidebar',
-            position: 'left',
-            label: 'Geometry',
-          },
-          {
-            type: 'docSidebar',
             sidebarId: 'precalculusSidebar',
             position: 'left',
             label: 'Precalculus',
