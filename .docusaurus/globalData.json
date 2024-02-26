@@ -36,44 +36,64 @@
               "sidebar": "geometrySidebar"
             },
             {
-              "id": "csp/big-o/big-o",
-              "path": "/docs/csp/big-o/",
-              "sidebar": "cspSidebar"
-            },
-            {
-              "id": "csp/big-o/big-theta-and-omega",
-              "path": "/docs/csp/big-o/big-theta-and-omega",
-              "sidebar": "cspSidebar"
-            },
-            {
-              "id": "csp/big-o/comparisons",
-              "path": "/docs/csp/big-o/comparisons",
-              "sidebar": "cspSidebar"
-            },
-            {
-              "id": "csp/big-o/examples",
-              "path": "/docs/csp/big-o/examples",
-              "sidebar": "cspSidebar"
-            },
-            {
-              "id": "csp/big-o/mathematical-definition",
-              "path": "/docs/csp/big-o/mathematical-definition",
-              "sidebar": "cspSidebar"
-            },
-            {
-              "id": "csp/big-o/space-complexity",
-              "path": "/docs/csp/big-o/space-complexity",
-              "sidebar": "cspSidebar"
-            },
-            {
-              "id": "csp/big-o/space-examples",
-              "path": "/docs/csp/big-o/space-examples",
-              "sidebar": "cspSidebar"
-            },
-            {
               "id": "csp/overview",
               "path": "/docs/csp/overview",
               "sidebar": "cspSidebar"
+            },
+            {
+              "id": "dsa/big-o/big-o",
+              "path": "/docs/dsa/big-o/",
+              "sidebar": "dsaSidebar"
+            },
+            {
+              "id": "dsa/big-o/big-theta-and-omega",
+              "path": "/docs/dsa/big-o/big-theta-and-omega",
+              "sidebar": "dsaSidebar"
+            },
+            {
+              "id": "dsa/big-o/comparisons",
+              "path": "/docs/dsa/big-o/comparisons",
+              "sidebar": "dsaSidebar"
+            },
+            {
+              "id": "dsa/big-o/examples",
+              "path": "/docs/dsa/big-o/examples",
+              "sidebar": "dsaSidebar"
+            },
+            {
+              "id": "dsa/big-o/mathematical-definition",
+              "path": "/docs/dsa/big-o/mathematical-definition",
+              "sidebar": "dsaSidebar"
+            },
+            {
+              "id": "dsa/big-o/space-complexity",
+              "path": "/docs/dsa/big-o/space-complexity",
+              "sidebar": "dsaSidebar"
+            },
+            {
+              "id": "dsa/big-o/space-examples",
+              "path": "/docs/dsa/big-o/space-examples",
+              "sidebar": "dsaSidebar"
+            },
+            {
+              "id": "dsa/dynamic-programming/2d-dp",
+              "path": "/docs/dsa/dynamic-programming/2d-dp",
+              "sidebar": "dsaSidebar"
+            },
+            {
+              "id": "dsa/dynamic-programming/coin",
+              "path": "/docs/dsa/dynamic-programming/coin",
+              "sidebar": "dsaSidebar"
+            },
+            {
+              "id": "dsa/dynamic-programming/dynamic-programming",
+              "path": "/docs/dsa/dynamic-programming/",
+              "sidebar": "dsaSidebar"
+            },
+            {
+              "id": "dsa/dynamic-programming/electric-car",
+              "path": "/docs/dsa/dynamic-programming/electric-car",
+              "sidebar": "dsaSidebar"
             },
             {
               "id": "intro",
@@ -127,7 +147,12 @@
             {
               "id": "/category/big-o-notation",
               "path": "/docs/category/big-o-notation",
-              "sidebar": "cspSidebar"
+              "sidebar": "dsaSidebar"
+            },
+            {
+              "id": "/category/dynamic-programming",
+              "path": "/docs/category/dynamic-programming",
+              "sidebar": "dsaSidebar"
             },
             {
               "id": "/category/example-projects",
@@ -164,6 +189,12 @@
               "link": {
                 "path": "/docs/csp/overview",
                 "label": "csp/overview"
+              }
+            },
+            "dsaSidebar": {
+              "link": {
+                "path": "/docs/category/big-o-notation",
+                "label": "Big O Notation"
               }
             },
             "javascriptSidebar": {

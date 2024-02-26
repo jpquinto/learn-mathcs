@@ -1,0 +1,28 @@
+{
+  "id": "dsa/big-o/examples",
+  "title": "Runtime Analysis Examples",
+  "description": "Linear Search",
+  "source": "@site/docs/dsa/big-o/examples.md",
+  "sourceDirName": "dsa/big-o",
+  "slug": "/dsa/big-o/examples",
+  "permalink": "/docs/dsa/big-o/examples",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "dsaSidebar",
+  "previous": {
+    "title": "Formal (Mathematical) Definition",
+    "permalink": "/docs/dsa/big-o/mathematical-definition"
+  },
+  "next": {
+    "title": "Big Omega and Big Theta",
+    "permalink": "/docs/dsa/big-o/big-theta-and-omega"
+  }
+}

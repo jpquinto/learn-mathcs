@@ -1,0 +1,28 @@
+{
+  "id": "dsa/dynamic-programming/dynamic-programming",
+  "title": "What is Dynamic Programming?",
+  "description": "To see this article on my blog, click here!",
+  "source": "@site/docs/dsa/dynamic-programming/dynamic-programming.md",
+  "sourceDirName": "dsa/dynamic-programming",
+  "slug": "/dsa/dynamic-programming/",
+  "permalink": "/docs/dsa/dynamic-programming/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "dsaSidebar",
+  "previous": {
+    "title": "Dynamic Programming",
+    "permalink": "/docs/category/dynamic-programming"
+  },
+  "next": {
+    "title": "Example: Electric Car⚡",
+    "permalink": "/docs/dsa/dynamic-programming/electric-car"
+  }
+}

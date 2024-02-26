@@ -153,7 +153,9 @@
         "href": "/docs/csp/overview",
         "docId": "csp/overview",
         "unlisted": false
-      },
+      }
+    ],
+    "dsaSidebar": [
       {
         "type": "category",
         "label": "Big O Notation",
@@ -163,54 +165,91 @@
           {
             "type": "link",
             "label": "Intro to Runtime Complexity",
-            "href": "/docs/csp/big-o/",
-            "docId": "csp/big-o/big-o",
+            "href": "/docs/dsa/big-o/",
+            "docId": "dsa/big-o/big-o",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Formal (Mathematical) Definition",
-            "href": "/docs/csp/big-o/mathematical-definition",
-            "docId": "csp/big-o/mathematical-definition",
+            "href": "/docs/dsa/big-o/mathematical-definition",
+            "docId": "dsa/big-o/mathematical-definition",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Runtime Analysis Examples",
-            "href": "/docs/csp/big-o/examples",
-            "docId": "csp/big-o/examples",
+            "href": "/docs/dsa/big-o/examples",
+            "docId": "dsa/big-o/examples",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Big Omega and Big Theta",
-            "href": "/docs/csp/big-o/big-theta-and-omega",
-            "docId": "csp/big-o/big-theta-and-omega",
+            "href": "/docs/dsa/big-o/big-theta-and-omega",
+            "docId": "dsa/big-o/big-theta-and-omega",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Comparing Different Algorithms",
-            "href": "/docs/csp/big-o/comparisons",
-            "docId": "csp/big-o/comparisons",
+            "href": "/docs/dsa/big-o/comparisons",
+            "docId": "dsa/big-o/comparisons",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Space Complexity",
-            "href": "/docs/csp/big-o/space-complexity",
-            "docId": "csp/big-o/space-complexity",
+            "href": "/docs/dsa/big-o/space-complexity",
+            "docId": "dsa/big-o/space-complexity",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Space Analysis Examples",
-            "href": "/docs/csp/big-o/space-examples",
-            "docId": "csp/big-o/space-examples",
+            "href": "/docs/dsa/big-o/space-examples",
+            "docId": "dsa/big-o/space-examples",
             "unlisted": false
           }
         ],
         "href": "/docs/category/big-o-notation"
+      },
+      {
+        "type": "category",
+        "label": "Dynamic Programming",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "What is Dynamic Programming?",
+            "href": "/docs/dsa/dynamic-programming/",
+            "docId": "dsa/dynamic-programming/dynamic-programming",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Example: Electric Car⚡",
+            "href": "/docs/dsa/dynamic-programming/electric-car",
+            "docId": "dsa/dynamic-programming/electric-car",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Two Dimensional Dynamic Programming",
+            "href": "/docs/dsa/dynamic-programming/2d-dp",
+            "docId": "dsa/dynamic-programming/2d-dp",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "2-DP Example: Coins🪙",
+            "href": "/docs/dsa/dynamic-programming/coin",
+            "docId": "dsa/dynamic-programming/coin",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/dynamic-programming"
       }
     ],
     "javascriptSidebar": [
@@ -319,53 +358,77 @@
       "description": "The textbook used for this website's Algebra 1 content is Big Ideas Math Algebra 1.",
       "sidebar": "geometrySidebar"
     },
-    "csp/big-o/big-o": {
-      "id": "csp/big-o/big-o",
-      "title": "Intro to Runtime Complexity",
-      "description": "What is Runtime Complexity?",
-      "sidebar": "cspSidebar"
-    },
-    "csp/big-o/big-theta-and-omega": {
-      "id": "csp/big-o/big-theta-and-omega",
-      "title": "Big Omega and Big Theta",
-      "description": "Alright, we've learned a decent bit about Big O. But have you ever heard someone mention Big $\\Theta$ or Big $\\Omega$? What are they?",
-      "sidebar": "cspSidebar"
-    },
-    "csp/big-o/comparisons": {
-      "id": "csp/big-o/comparisons",
-      "title": "Comparing Different Algorithms",
-      "description": "When choosing data structures for your project, it's important to know the runtimes of the different operations you complete on the data structure. Right now, we'll take a look at and compare the runtimes of Arrays and LinkedLists.",
-      "sidebar": "cspSidebar"
-    },
-    "csp/big-o/examples": {
-      "id": "csp/big-o/examples",
-      "title": "Runtime Analysis Examples",
-      "description": "Linear Search",
-      "sidebar": "cspSidebar"
-    },
-    "csp/big-o/mathematical-definition": {
-      "id": "csp/big-o/mathematical-definition",
-      "title": "Formal (Mathematical) Definition",
-      "description": "Remember that there's quite a bit of math involved in computer science! Computer science is basically a field of mathematics, so you'll probably run into a lot of mathematical theory in coding. Get used to it!",
-      "sidebar": "cspSidebar"
-    },
-    "csp/big-o/space-complexity": {
-      "id": "csp/big-o/space-complexity",
-      "title": "Space Complexity",
-      "description": "Space complexity refers to the amount of memory space required by an algorithm or a program to execute as a function of the input size. It is a measure of how efficiently an algorithm utilizes memory resources.",
-      "sidebar": "cspSidebar"
-    },
-    "csp/big-o/space-examples": {
-      "id": "csp/big-o/space-examples",
-      "title": "Space Analysis Examples",
-      "description": "Linear Search",
-      "sidebar": "cspSidebar"
-    },
     "csp/overview": {
       "id": "csp/overview",
       "title": "Binary",
       "description": "What is Binary?",
       "sidebar": "cspSidebar"
+    },
+    "dsa/big-o/big-o": {
+      "id": "dsa/big-o/big-o",
+      "title": "Intro to Runtime Complexity",
+      "description": "What is Runtime Complexity?",
+      "sidebar": "dsaSidebar"
+    },
+    "dsa/big-o/big-theta-and-omega": {
+      "id": "dsa/big-o/big-theta-and-omega",
+      "title": "Big Omega and Big Theta",
+      "description": "Alright, we've learned a decent bit about Big O. But have you ever heard someone mention Big $\\Theta$ or Big $\\Omega$? What are they?",
+      "sidebar": "dsaSidebar"
+    },
+    "dsa/big-o/comparisons": {
+      "id": "dsa/big-o/comparisons",
+      "title": "Comparing Different Algorithms",
+      "description": "When choosing data structures for your project, it's important to know the runtimes of the different operations you complete on the data structure. Right now, we'll take a look at and compare the runtimes of Arrays and LinkedLists.",
+      "sidebar": "dsaSidebar"
+    },
+    "dsa/big-o/examples": {
+      "id": "dsa/big-o/examples",
+      "title": "Runtime Analysis Examples",
+      "description": "Linear Search",
+      "sidebar": "dsaSidebar"
+    },
+    "dsa/big-o/mathematical-definition": {
+      "id": "dsa/big-o/mathematical-definition",
+      "title": "Formal (Mathematical) Definition",
+      "description": "Remember that there's quite a bit of math involved in computer science! Computer science is basically a field of mathematics, so you'll probably run into a lot of mathematical theory in coding. Get used to it!",
+      "sidebar": "dsaSidebar"
+    },
+    "dsa/big-o/space-complexity": {
+      "id": "dsa/big-o/space-complexity",
+      "title": "Space Complexity",
+      "description": "Space complexity refers to the amount of memory space required by an algorithm or a program to execute as a function of the input size. It is a measure of how efficiently an algorithm utilizes memory resources.",
+      "sidebar": "dsaSidebar"
+    },
+    "dsa/big-o/space-examples": {
+      "id": "dsa/big-o/space-examples",
+      "title": "Space Analysis Examples",
+      "description": "Linear Search",
+      "sidebar": "dsaSidebar"
+    },
+    "dsa/dynamic-programming/2d-dp": {
+      "id": "dsa/dynamic-programming/2d-dp",
+      "title": "Two Dimensional Dynamic Programming",
+      "description": "Sometimes, when you're solving subproblems that are a bit more complex, you'll need more than just a single array to store the results of your subproblems. This is where Two-dimensional dynamic programming comes in, where intermediate results of subproblems are stored in a table (or 2D array).",
+      "sidebar": "dsaSidebar"
+    },
+    "dsa/dynamic-programming/coin": {
+      "id": "dsa/dynamic-programming/coin",
+      "title": "2-DP Example: Coins🪙",
+      "description": "You are given coins with values D\\1, D\\2,..., D\\_n, as well as a target price, P. Create an algorithm that returns the smallest number of coins you can use from the list to make exactly P cents, or return infinity if it is not possible. You can use each coin at most once.",
+      "sidebar": "dsaSidebar"
+    },
+    "dsa/dynamic-programming/dynamic-programming": {
+      "id": "dsa/dynamic-programming/dynamic-programming",
+      "title": "What is Dynamic Programming?",
+      "description": "To see this article on my blog, click here!",
+      "sidebar": "dsaSidebar"
+    },
+    "dsa/dynamic-programming/electric-car": {
+      "id": "dsa/dynamic-programming/electric-car",
+      "title": "Example: Electric Car⚡",
+      "description": "Let's try a bit of a harder question than the Fibonacci example.",
+      "sidebar": "dsaSidebar"
     },
     "intro": {
       "id": "intro",

@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-173": {
+  "/docs-90d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsee-3-1b6"
     }
   },
-  "/docs-b12": {
+  "/docs-583": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-f9a": {
+  "/docs-ddb": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/algebra-1/chapter-6/6-1-fa5": {
@@ -86,9 +86,9 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-beginner-1-f-9-b8c"
   },
-  "/docs/category/big-o-notation-644": {
+  "/docs/category/big-o-notation-a73": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-big-o-notation-1-ac-406"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-big-o-notation-49-a-ed8"
   },
   "/docs/category/chapter-6-717": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -102,41 +102,61 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-chapter-6-2866-f79"
   },
+  "/docs/category/dynamic-programming-893": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-dynamic-programming-7-c-8-4f9"
+  },
   "/docs/category/example-projects-624": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-example-projects-087-339"
   },
-  "/docs/csp/big-o/-3ce": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-csp-big-o-7-a-6-cac"
-  },
-  "/docs/csp/big-o/big-theta-and-omega-a0f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-csp-big-o-big-theta-and-omega-3-fb-714"
-  },
-  "/docs/csp/big-o/comparisons-442": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-csp-big-o-comparisons-178-49b"
-  },
-  "/docs/csp/big-o/examples-873": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-csp-big-o-examples-325-b59"
-  },
-  "/docs/csp/big-o/mathematical-definition-dca": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-csp-big-o-mathematical-definitiona-4-b-752"
-  },
-  "/docs/csp/big-o/space-complexity-576": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-csp-big-o-space-complexity-208-ca1"
-  },
-  "/docs/csp/big-o/space-examples-b15": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-csp-big-o-space-examples-5-ea-c4d"
-  },
   "/docs/csp/overview-e65": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-csp-overview-083-f9c"
+  },
+  "/docs/dsa/big-o/-76e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dsa-big-o-ba-9-4d4"
+  },
+  "/docs/dsa/big-o/big-theta-and-omega-6d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dsa-big-o-big-theta-and-omegadd-2-2c6"
+  },
+  "/docs/dsa/big-o/comparisons-301": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dsa-big-o-comparisons-227-ac0"
+  },
+  "/docs/dsa/big-o/examples-458": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dsa-big-o-examples-79-d-a87"
+  },
+  "/docs/dsa/big-o/mathematical-definition-3a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dsa-big-o-mathematical-definition-36-f-1cc"
+  },
+  "/docs/dsa/big-o/space-complexity-325": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dsa-big-o-space-complexity-4-b-6-dda"
+  },
+  "/docs/dsa/big-o/space-examples-bfe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dsa-big-o-space-examples-23-b-16c"
+  },
+  "/docs/dsa/dynamic-programming/-e80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dsa-dynamic-programming-80-d-b51"
+  },
+  "/docs/dsa/dynamic-programming/2d-dp-356": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dsa-dynamic-programming-2-d-dp-9-ae-d68"
+  },
+  "/docs/dsa/dynamic-programming/coin-655": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dsa-dynamic-programming-coin-4-fb-a8f"
+  },
+  "/docs/dsa/dynamic-programming/electric-car-da2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dsa-dynamic-programming-electric-carc-44-273"
   },
   "/docs/intro-e84": {
     "__comp": "__comp---theme-doc-item-178-a40",

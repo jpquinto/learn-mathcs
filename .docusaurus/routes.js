@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '173'),
+    component: ComponentCreator('/docs', '90d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b12'),
+        component: ComponentCreator('/docs', '583'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f9a'),
+            component: ComponentCreator('/docs', 'ddb'),
             routes: [
               {
                 path: '/docs/algebra-1/chapter-6/6-1',
@@ -92,9 +92,9 @@ export default [
               },
               {
                 path: '/docs/category/big-o-notation',
-                component: ComponentCreator('/docs/category/big-o-notation', '644'),
+                component: ComponentCreator('/docs/category/big-o-notation', 'a73'),
                 exact: true,
-                sidebar: "cspSidebar"
+                sidebar: "dsaSidebar"
               },
               {
                 path: '/docs/category/chapter-6',
@@ -115,58 +115,88 @@ export default [
                 sidebar: "geometrySidebar"
               },
               {
+                path: '/docs/category/dynamic-programming',
+                component: ComponentCreator('/docs/category/dynamic-programming', '893'),
+                exact: true,
+                sidebar: "dsaSidebar"
+              },
+              {
                 path: '/docs/category/example-projects',
                 component: ComponentCreator('/docs/category/example-projects', '624'),
                 exact: true,
                 sidebar: "javascriptSidebar"
               },
               {
-                path: '/docs/csp/big-o/',
-                component: ComponentCreator('/docs/csp/big-o/', '3ce'),
-                exact: true,
-                sidebar: "cspSidebar"
-              },
-              {
-                path: '/docs/csp/big-o/big-theta-and-omega',
-                component: ComponentCreator('/docs/csp/big-o/big-theta-and-omega', 'a0f'),
-                exact: true,
-                sidebar: "cspSidebar"
-              },
-              {
-                path: '/docs/csp/big-o/comparisons',
-                component: ComponentCreator('/docs/csp/big-o/comparisons', '442'),
-                exact: true,
-                sidebar: "cspSidebar"
-              },
-              {
-                path: '/docs/csp/big-o/examples',
-                component: ComponentCreator('/docs/csp/big-o/examples', '873'),
-                exact: true,
-                sidebar: "cspSidebar"
-              },
-              {
-                path: '/docs/csp/big-o/mathematical-definition',
-                component: ComponentCreator('/docs/csp/big-o/mathematical-definition', 'dca'),
-                exact: true,
-                sidebar: "cspSidebar"
-              },
-              {
-                path: '/docs/csp/big-o/space-complexity',
-                component: ComponentCreator('/docs/csp/big-o/space-complexity', '576'),
-                exact: true,
-                sidebar: "cspSidebar"
-              },
-              {
-                path: '/docs/csp/big-o/space-examples',
-                component: ComponentCreator('/docs/csp/big-o/space-examples', 'b15'),
-                exact: true,
-                sidebar: "cspSidebar"
-              },
-              {
                 path: '/docs/csp/overview',
                 component: ComponentCreator('/docs/csp/overview', 'e65'),
                 exact: true,
                 sidebar: "cspSidebar"
+              },
+              {
+                path: '/docs/dsa/big-o/',
+                component: ComponentCreator('/docs/dsa/big-o/', '76e'),
+                exact: true,
+                sidebar: "dsaSidebar"
+              },
+              {
+                path: '/docs/dsa/big-o/big-theta-and-omega',
+                component: ComponentCreator('/docs/dsa/big-o/big-theta-and-omega', '6d6'),
+                exact: true,
+                sidebar: "dsaSidebar"
+              },
+              {
+                path: '/docs/dsa/big-o/comparisons',
+                component: ComponentCreator('/docs/dsa/big-o/comparisons', '301'),
+                exact: true,
+                sidebar: "dsaSidebar"
+              },
+              {
+                path: '/docs/dsa/big-o/examples',
+                component: ComponentCreator('/docs/dsa/big-o/examples', '458'),
+                exact: true,
+                sidebar: "dsaSidebar"
+              },
+              {
+                path: '/docs/dsa/big-o/mathematical-definition',
+                component: ComponentCreator('/docs/dsa/big-o/mathematical-definition', '3a3'),
+                exact: true,
+                sidebar: "dsaSidebar"
+              },
+              {
+                path: '/docs/dsa/big-o/space-complexity',
+                component: ComponentCreator('/docs/dsa/big-o/space-complexity', '325'),
+                exact: true,
+                sidebar: "dsaSidebar"
+              },
+              {
+                path: '/docs/dsa/big-o/space-examples',
+                component: ComponentCreator('/docs/dsa/big-o/space-examples', 'bfe'),
+                exact: true,
+                sidebar: "dsaSidebar"
+              },
+              {
+                path: '/docs/dsa/dynamic-programming/',
+                component: ComponentCreator('/docs/dsa/dynamic-programming/', 'e80'),
+                exact: true,
+                sidebar: "dsaSidebar"
+              },
+              {
+                path: '/docs/dsa/dynamic-programming/2d-dp',
+                component: ComponentCreator('/docs/dsa/dynamic-programming/2d-dp', '356'),
+                exact: true,
+                sidebar: "dsaSidebar"
+              },
+              {
+                path: '/docs/dsa/dynamic-programming/coin',
+                component: ComponentCreator('/docs/dsa/dynamic-programming/coin', '655'),
+                exact: true,
+                sidebar: "dsaSidebar"
+              },
+              {
+                path: '/docs/dsa/dynamic-programming/electric-car',
+                component: ComponentCreator('/docs/dsa/dynamic-programming/electric-car', 'da2'),
+                exact: true,
+                sidebar: "dsaSidebar"
               },
               {
                 path: '/docs/intro',

@@ -16,9 +16,5 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "cspSidebar",
-  "next": {
-    "title": "Big O Notation",
-    "permalink": "/docs/category/big-o-notation"
-  }
+  "sidebar": "cspSidebar"
 }

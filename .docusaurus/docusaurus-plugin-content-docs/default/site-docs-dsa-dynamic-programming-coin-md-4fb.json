@@ -1,0 +1,24 @@
+{
+  "id": "dsa/dynamic-programming/coin",
+  "title": "2-DP Example: Coins🪙",
+  "description": "You are given coins with values D\\1, D\\2,..., D\\_n, as well as a target price, P. Create an algorithm that returns the smallest number of coins you can use from the list to make exactly P cents, or return infinity if it is not possible. You can use each coin at most once.",
+  "source": "@site/docs/dsa/dynamic-programming/coin.md",
+  "sourceDirName": "dsa/dynamic-programming",
+  "slug": "/dsa/dynamic-programming/coin",
+  "permalink": "/docs/dsa/dynamic-programming/coin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "dsaSidebar",
+  "previous": {
+    "title": "Two Dimensional Dynamic Programming",
+    "permalink": "/docs/dsa/dynamic-programming/2d-dp"
+  }
+}

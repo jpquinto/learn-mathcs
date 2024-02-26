@@ -96,6 +96,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'dsaSidebar',
+            position: 'left',
+            label: 'Data Structures & Algorithms',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'javascriptSidebar',
             position: 'left',
             label: 'JavaScript',

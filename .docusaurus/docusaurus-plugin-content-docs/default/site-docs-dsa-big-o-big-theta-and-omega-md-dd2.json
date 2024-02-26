@@ -1,0 +1,28 @@
+{
+  "id": "dsa/big-o/big-theta-and-omega",
+  "title": "Big Omega and Big Theta",
+  "description": "Alright, we've learned a decent bit about Big O. But have you ever heard someone mention Big $\\Theta$ or Big $\\Omega$? What are they?",
+  "source": "@site/docs/dsa/big-o/big-theta-and-omega.md",
+  "sourceDirName": "dsa/big-o",
+  "slug": "/dsa/big-o/big-theta-and-omega",
+  "permalink": "/docs/dsa/big-o/big-theta-and-omega",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "dsaSidebar",
+  "previous": {
+    "title": "Runtime Analysis Examples",
+    "permalink": "/docs/dsa/big-o/examples"
+  },
+  "next": {
+    "title": "Comparing Different Algorithms",
+    "permalink": "/docs/dsa/big-o/comparisons"
+  }
+}

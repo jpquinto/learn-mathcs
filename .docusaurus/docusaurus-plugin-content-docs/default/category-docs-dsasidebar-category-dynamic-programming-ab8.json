@@ -1,0 +1,16 @@
+{
+  "title": "Dynamic Programming",
+  "description": "Big O notation is used for analyzing the runtimes (and space) complexities of algorithms.",
+  "slug": "/category/dynamic-programming",
+  "permalink": "/docs/category/dynamic-programming",
+  "navigation": {
+    "previous": {
+      "title": "Space Analysis Examples",
+      "permalink": "/docs/dsa/big-o/space-examples"
+    },
+    "next": {
+      "title": "What is Dynamic Programming?",
+      "permalink": "/docs/dsa/dynamic-programming/"
+    }
+  }
+}

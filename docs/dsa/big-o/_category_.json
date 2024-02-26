@@ -1,0 +1,9 @@
+{
+    "label": "Big O Notation",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Big O notation is used for analyzing the runtimes (and space) complexities of algorithms."
+    }
+}
+  
