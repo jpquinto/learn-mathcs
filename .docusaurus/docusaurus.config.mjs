@@ -65,12 +65,6 @@ export default {
         },
         {
           "type": "docSidebar",
-          "sidebarId": "geometrySidebar",
-          "position": "left",
-          "label": "Geometry"
-        },
-        {
-          "type": "docSidebar",
           "sidebarId": "precalculusSidebar",
           "position": "left",
           "label": "Precalculus"
@@ -110,15 +104,15 @@ export default {
           "items": [
             {
               "label": "Alegbra 1",
-              "to": "/docs/algebra-1"
+              "to": "/docs/algebra-1/overview"
             },
             {
               "label": "JavaScript",
-              "to": "/docs/javascript"
+              "to": "/docs/javascript/overview"
             },
             {
               "label": "Computer Science Principles",
-              "to": "/docs/csp"
+              "to": "/docs/csp/overview"
             }
           ]
         },

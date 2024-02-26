@@ -13,27 +13,27 @@
             {
               "id": "algebra-1/chapter-6/6-1",
               "path": "/docs/algebra-1/chapter-6/6-1",
-              "sidebar": "geometrySidebar"
+              "sidebar": "algebra2Sidebar"
             },
             {
               "id": "algebra-1/chapter-6/6-2",
               "path": "/docs/algebra-1/chapter-6/6-2",
-              "sidebar": "geometrySidebar"
+              "sidebar": "algebra2Sidebar"
             },
             {
               "id": "algebra-1/chapter-6/6-3",
               "path": "/docs/algebra-1/chapter-6/6-3",
-              "sidebar": "geometrySidebar"
+              "sidebar": "algebra2Sidebar"
             },
             {
               "id": "algebra-1/chapter-6/6-3-quiz",
               "path": "/docs/algebra-1/chapter-6/6-3-quiz",
-              "sidebar": "geometrySidebar"
+              "sidebar": "algebra2Sidebar"
             },
             {
               "id": "algebra-1/overview",
               "path": "/docs/algebra-1/overview",
-              "sidebar": "geometrySidebar"
+              "sidebar": "algebra2Sidebar"
             },
             {
               "id": "csp/overview",
@@ -140,18 +140,13 @@
               "sidebar": "algebra2Sidebar"
             },
             {
-              "id": "/category/chapter-6-2",
-              "path": "/docs/category/chapter-6-2",
-              "sidebar": "geometrySidebar"
-            },
-            {
               "id": "/category/big-o-notation",
               "path": "/docs/category/big-o-notation",
               "sidebar": "dsaSidebar"
             },
             {
-              "id": "/category/dynamic-programming",
-              "path": "/docs/category/dynamic-programming",
+              "id": "/category/dynamic-programming-algorithms",
+              "path": "/docs/category/dynamic-programming-algorithms",
               "sidebar": "dsaSidebar"
             },
             {
@@ -174,12 +169,6 @@
               }
             },
             "algebra2Sidebar": {
-              "link": {
-                "path": "/docs/algebra-1/overview",
-                "label": "algebra-1/overview"
-              }
-            },
-            "geometrySidebar": {
               "link": {
                 "path": "/docs/algebra-1/overview",
                 "label": "algebra-1/overview"

@@ -16,10 +16,10 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "geometrySidebar",
+  "sidebar": "algebra2Sidebar",
   "previous": {
     "title": "Chapter 6",
-    "permalink": "/docs/category/chapter-6-2"
+    "permalink": "/docs/category/chapter-6-1"
   },
   "next": {
     "title": "6.2: Radicals and Rational Exponents",

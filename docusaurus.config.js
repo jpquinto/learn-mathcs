@@ -116,15 +116,15 @@ const config = {
             items: [
               {
                 label: 'Alegbra 1',
-                to: '/docs/algebra-1',
+                to: '/docs/algebra-1/overview',
               },
               {
                 label: 'JavaScript',
-                to: '/docs/javascript',
+                to: '/docs/javascript/overview',
               },
               {
                 label: 'Computer Science Principles',
-                to: '/docs/csp',
+                to: '/docs/csp/overview',
               },
             ],
           },

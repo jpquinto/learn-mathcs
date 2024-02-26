@@ -35,10 +35,10 @@
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "geometrySidebar",
+              "sidebar": "algebra2Sidebar",
               "previous": {
                 "title": "Chapter 6",
-                "permalink": "/docs/category/chapter-6-2"
+                "permalink": "/docs/category/chapter-6-1"
               },
               "next": {
                 "title": "6.2: Radicals and Rational Exponents",
@@ -63,7 +63,7 @@
               "frontMatter": {
                 "sidebar_position": 2
               },
-              "sidebar": "geometrySidebar",
+              "sidebar": "algebra2Sidebar",
               "previous": {
                 "title": "6.1: Properties of Exponents",
                 "permalink": "/docs/algebra-1/chapter-6/6-1"
@@ -91,7 +91,7 @@
               "frontMatter": {
                 "sidebar_position": 3
               },
-              "sidebar": "geometrySidebar",
+              "sidebar": "algebra2Sidebar",
               "previous": {
                 "title": "6.2: Radicals and Rational Exponents",
                 "permalink": "/docs/algebra-1/chapter-6/6-2"
@@ -119,7 +119,7 @@
               "frontMatter": {
                 "sidebar_position": 4
               },
-              "sidebar": "geometrySidebar",
+              "sidebar": "algebra2Sidebar",
               "previous": {
                 "title": "6.3: Exponential Functions",
                 "permalink": "/docs/algebra-1/chapter-6/6-3"
@@ -143,10 +143,10 @@
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "geometrySidebar",
+              "sidebar": "algebra2Sidebar",
               "next": {
                 "title": "Chapter 6",
-                "permalink": "/docs/category/chapter-6-2"
+                "permalink": "/docs/category/chapter-6-1"
               }
             },
             {
@@ -361,8 +361,8 @@
                 "permalink": "/docs/dsa/big-o/space-complexity"
               },
               "next": {
-                "title": "Dynamic Programming",
-                "permalink": "/docs/category/dynamic-programming"
+                "title": "Dynamic Programming Algorithms",
+                "permalink": "/docs/category/dynamic-programming-algorithms"
               }
             },
             {
@@ -437,8 +437,8 @@
               },
               "sidebar": "dsaSidebar",
               "previous": {
-                "title": "Dynamic Programming",
-                "permalink": "/docs/category/dynamic-programming"
+                "title": "Dynamic Programming Algorithms",
+                "permalink": "/docs/category/dynamic-programming-algorithms"
               },
               "next": {
                 "title": "Example: Electric Car⚡",
@@ -709,41 +709,6 @@
                 }
               }
             ],
-            "geometrySidebar": [
-              {
-                "type": "doc",
-                "id": "algebra-1/overview"
-              },
-              {
-                "type": "category",
-                "label": "Chapter 6",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "algebra-1/chapter-6/6-1"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "algebra-1/chapter-6/6-2"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "algebra-1/chapter-6/6-3"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "algebra-1/chapter-6/6-3-quiz"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/chapter-6-2",
-                  "permalink": "/docs/category/chapter-6-2"
-                }
-              }
-            ],
             "cspSidebar": [
               {
                 "type": "doc",
@@ -795,7 +760,7 @@
               },
               {
                 "type": "category",
-                "label": "Dynamic Programming",
+                "label": "Dynamic Programming Algorithms",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -819,8 +784,8 @@
                 "link": {
                   "type": "generated-index",
                   "description": "Big O notation is used for analyzing the runtimes (and space) complexities of algorithms.",
-                  "slug": "/category/dynamic-programming",
-                  "permalink": "/docs/category/dynamic-programming"
+                  "slug": "/category/dynamic-programming-algorithms",
+                  "permalink": "/docs/category/dynamic-programming-algorithms"
                 }
               }
             ],

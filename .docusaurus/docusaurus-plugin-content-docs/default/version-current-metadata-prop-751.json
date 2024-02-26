@@ -100,52 +100,6 @@
         "href": "/docs/category/chapter-6-1"
       }
     ],
-    "geometrySidebar": [
-      {
-        "type": "link",
-        "label": "Algebra 1: Overview",
-        "href": "/docs/algebra-1/overview",
-        "docId": "algebra-1/overview",
-        "unlisted": false
-      },
-      {
-        "type": "category",
-        "label": "Chapter 6",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "6.1: Properties of Exponents",
-            "href": "/docs/algebra-1/chapter-6/6-1",
-            "docId": "algebra-1/chapter-6/6-1",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "6.2: Radicals and Rational Exponents",
-            "href": "/docs/algebra-1/chapter-6/6-2",
-            "docId": "algebra-1/chapter-6/6-2",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "6.3: Exponential Functions",
-            "href": "/docs/algebra-1/chapter-6/6-3",
-            "docId": "algebra-1/chapter-6/6-3",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "6.1 - 6.3 Quiz",
-            "href": "/docs/algebra-1/chapter-6/6-3-quiz",
-            "docId": "algebra-1/chapter-6/6-3-quiz",
-            "unlisted": false
-          }
-        ],
-        "href": "/docs/category/chapter-6-2"
-      }
-    ],
     "cspSidebar": [
       {
         "type": "link",
@@ -216,7 +170,7 @@
       },
       {
         "type": "category",
-        "label": "Dynamic Programming",
+        "label": "Dynamic Programming Algorithms",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -249,7 +203,7 @@
             "unlisted": false
           }
         ],
-        "href": "/docs/category/dynamic-programming"
+        "href": "/docs/category/dynamic-programming-algorithms"
       }
     ],
     "javascriptSidebar": [
@@ -332,31 +286,31 @@
       "id": "algebra-1/chapter-6/6-1",
       "title": "6.1: Properties of Exponents",
       "description": "In the realm of algebra, exponents serve as fundamental tools that simplify and manipulate expressions involving repeated multiplication. Mastering the rules of exponents is crucial for effectively solving equations and simplifying expressions.",
-      "sidebar": "geometrySidebar"
+      "sidebar": "algebra2Sidebar"
     },
     "algebra-1/chapter-6/6-2": {
       "id": "algebra-1/chapter-6/6-2",
       "title": "6.2: Radicals and Rational Exponents",
       "description": "In algebra, rational and radical exponents play a crucial role in expanding our understanding of mathematical expressions.",
-      "sidebar": "geometrySidebar"
+      "sidebar": "algebra2Sidebar"
     },
     "algebra-1/chapter-6/6-3": {
       "id": "algebra-1/chapter-6/6-3",
       "title": "6.3: Exponential Functions",
       "description": "For those familiar with linear functions, delving into exponential functions introduces a new realm of mathematical relationships. While linear functions grow steadily by a constant rate, exponential functions exhibit rapid growth or decay, governed by a constant factor. Let's explore the key differences between exponential and linear functions:",
-      "sidebar": "geometrySidebar"
+      "sidebar": "algebra2Sidebar"
     },
     "algebra-1/chapter-6/6-3-quiz": {
       "id": "algebra-1/chapter-6/6-3-quiz",
       "title": "6.1 - 6.3 Quiz",
       "description": "Evaluate the following exponents.",
-      "sidebar": "geometrySidebar"
+      "sidebar": "algebra2Sidebar"
     },
     "algebra-1/overview": {
       "id": "algebra-1/overview",
       "title": "Algebra 1: Overview",
       "description": "The textbook used for this website's Algebra 1 content is Big Ideas Math Algebra 1.",
-      "sidebar": "geometrySidebar"
+      "sidebar": "algebra2Sidebar"
     },
     "csp/overview": {
       "id": "csp/overview",

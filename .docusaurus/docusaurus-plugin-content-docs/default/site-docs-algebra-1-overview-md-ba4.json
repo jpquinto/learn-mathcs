@@ -16,9 +16,9 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "geometrySidebar",
+  "sidebar": "algebra2Sidebar",
   "next": {
     "title": "Chapter 6",
-    "permalink": "/docs/category/chapter-6-2"
+    "permalink": "/docs/category/chapter-6-1"
   }
 }

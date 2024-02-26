@@ -44,45 +44,45 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '90d'),
+    component: ComponentCreator('/docs', 'b31'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '583'),
+        component: ComponentCreator('/docs', 'ec2'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ddb'),
+            component: ComponentCreator('/docs', '825'),
             routes: [
               {
                 path: '/docs/algebra-1/chapter-6/6-1',
-                component: ComponentCreator('/docs/algebra-1/chapter-6/6-1', 'fa5'),
+                component: ComponentCreator('/docs/algebra-1/chapter-6/6-1', '5a3'),
                 exact: true,
-                sidebar: "geometrySidebar"
+                sidebar: "algebra2Sidebar"
               },
               {
                 path: '/docs/algebra-1/chapter-6/6-2',
-                component: ComponentCreator('/docs/algebra-1/chapter-6/6-2', '56b'),
+                component: ComponentCreator('/docs/algebra-1/chapter-6/6-2', '897'),
                 exact: true,
-                sidebar: "geometrySidebar"
+                sidebar: "algebra2Sidebar"
               },
               {
                 path: '/docs/algebra-1/chapter-6/6-3',
-                component: ComponentCreator('/docs/algebra-1/chapter-6/6-3', '1f0'),
+                component: ComponentCreator('/docs/algebra-1/chapter-6/6-3', '67e'),
                 exact: true,
-                sidebar: "geometrySidebar"
+                sidebar: "algebra2Sidebar"
               },
               {
                 path: '/docs/algebra-1/chapter-6/6-3-quiz',
-                component: ComponentCreator('/docs/algebra-1/chapter-6/6-3-quiz', '27d'),
+                component: ComponentCreator('/docs/algebra-1/chapter-6/6-3-quiz', 'ace'),
                 exact: true,
-                sidebar: "geometrySidebar"
+                sidebar: "algebra2Sidebar"
               },
               {
                 path: '/docs/algebra-1/overview',
-                component: ComponentCreator('/docs/algebra-1/overview', '8ac'),
+                component: ComponentCreator('/docs/algebra-1/overview', 'e22'),
                 exact: true,
-                sidebar: "geometrySidebar"
+                sidebar: "algebra2Sidebar"
               },
               {
                 path: '/docs/category/beginner',
@@ -109,14 +109,8 @@ export default [
                 sidebar: "algebra2Sidebar"
               },
               {
-                path: '/docs/category/chapter-6-2',
-                component: ComponentCreator('/docs/category/chapter-6-2', '187'),
-                exact: true,
-                sidebar: "geometrySidebar"
-              },
-              {
-                path: '/docs/category/dynamic-programming',
-                component: ComponentCreator('/docs/category/dynamic-programming', '893'),
+                path: '/docs/category/dynamic-programming-algorithms',
+                component: ComponentCreator('/docs/category/dynamic-programming-algorithms', '26b'),
                 exact: true,
                 sidebar: "dsaSidebar"
               },

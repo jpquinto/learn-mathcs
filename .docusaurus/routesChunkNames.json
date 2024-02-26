@@ -49,36 +49,36 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-90d": {
+  "/docs-b31": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsee-3-1b6"
     }
   },
-  "/docs-583": {
+  "/docs-ec2": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-ddb": {
+  "/docs-825": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/algebra-1/chapter-6/6-1-fa5": {
+  "/docs/algebra-1/chapter-6/6-1-5a3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-algebra-1-chapter-6-6-1740-cd8"
   },
-  "/docs/algebra-1/chapter-6/6-2-56b": {
+  "/docs/algebra-1/chapter-6/6-2-897": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-algebra-1-chapter-6-6-250-f-e76"
   },
-  "/docs/algebra-1/chapter-6/6-3-1f0": {
+  "/docs/algebra-1/chapter-6/6-3-67e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-algebra-1-chapter-6-6-3-d-56-71d"
   },
-  "/docs/algebra-1/chapter-6/6-3-quiz-27d": {
+  "/docs/algebra-1/chapter-6/6-3-quiz-ace": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-algebra-1-chapter-6-6-3-quiza-79-745"
   },
-  "/docs/algebra-1/overview-8ac": {
+  "/docs/algebra-1/overview-e22": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-algebra-1-overviewba-4-8e9"
   },
@@ -98,13 +98,9 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-chapter-6-1479-f4a"
   },
-  "/docs/category/chapter-6-2-187": {
+  "/docs/category/dynamic-programming-algorithms-26b": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-chapter-6-2866-f79"
-  },
-  "/docs/category/dynamic-programming-893": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-dynamic-programming-7-c-8-4f9"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-dynamic-programming-algorithms-983-db0"
   },
   "/docs/category/example-projects-624": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
