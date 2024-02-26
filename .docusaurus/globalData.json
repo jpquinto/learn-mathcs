@@ -95,8 +95,18 @@
               "sidebar": "otherSidebar"
             },
             {
+              "id": "other/4th-grade/fractions-practice",
+              "path": "/docs/other/4th-grade/fractions-practice",
+              "sidebar": "otherSidebar"
+            },
+            {
               "id": "precalculus/intro-to-trig",
               "path": "/docs/precalculus/intro-to-trig",
+              "sidebar": "precalculusSidebar"
+            },
+            {
+              "id": "precalculus/trig-functions",
+              "path": "/docs/precalculus/trig-functions",
               "sidebar": "precalculusSidebar"
             },
             {

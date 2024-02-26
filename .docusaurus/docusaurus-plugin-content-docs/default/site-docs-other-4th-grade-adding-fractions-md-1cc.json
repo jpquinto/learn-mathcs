@@ -16,5 +16,9 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "otherSidebar"
+  "sidebar": "otherSidebar",
+  "next": {
+    "title": "Fractions Practice",
+    "permalink": "/docs/other/4th-grade/fractions-practice"
+  }
 }

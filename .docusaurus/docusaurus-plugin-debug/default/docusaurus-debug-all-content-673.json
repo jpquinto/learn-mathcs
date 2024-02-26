@@ -450,7 +450,35 @@
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "otherSidebar"
+              "sidebar": "otherSidebar",
+              "next": {
+                "title": "Fractions Practice",
+                "permalink": "/docs/other/4th-grade/fractions-practice"
+              }
+            },
+            {
+              "id": "other/4th-grade/fractions-practice",
+              "title": "Fractions Practice",
+              "description": "Fraction Operations with Tape Model",
+              "source": "@site/docs/other/4th-grade/fractions-practice.md",
+              "sourceDirName": "other/4th-grade",
+              "slug": "/other/4th-grade/fractions-practice",
+              "permalink": "/docs/other/4th-grade/fractions-practice",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "otherSidebar",
+              "previous": {
+                "title": "Adding and Simplifying Fractions Practice",
+                "permalink": "/docs/other/4th-grade/adding-fractions"
+              }
             },
             {
               "id": "precalculus/intro-to-trig",
@@ -470,7 +498,35 @@
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "precalculusSidebar"
+              "sidebar": "precalculusSidebar",
+              "next": {
+                "title": "Basic Sine and Cosine Curves: Practice Problems",
+                "permalink": "/docs/precalculus/trig-functions"
+              }
+            },
+            {
+              "id": "precalculus/trig-functions",
+              "title": "Basic Sine and Cosine Curves: Practice Problems",
+              "description": "1: Graphing Sine and Cosine",
+              "source": "@site/docs/precalculus/trig-functions.md",
+              "sourceDirName": "precalculus",
+              "slug": "/precalculus/trig-functions",
+              "permalink": "/docs/precalculus/trig-functions",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "precalculusSidebar",
+              "previous": {
+                "title": "Intro to Trigonometry: Practice Problems",
+                "permalink": "/docs/precalculus/intro-to-trig"
+              }
             }
           ],
           "drafts": [],
@@ -670,6 +726,10 @@
               {
                 "type": "doc",
                 "id": "precalculus/intro-to-trig"
+              },
+              {
+                "type": "doc",
+                "id": "precalculus/trig-functions"
               }
             ],
             "otherSidebar": [
@@ -682,6 +742,10 @@
                   {
                     "type": "doc",
                     "id": "other/4th-grade/adding-fractions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "other/4th-grade/fractions-practice"
                   }
                 ]
               }

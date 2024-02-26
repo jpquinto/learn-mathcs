@@ -16,5 +16,9 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "precalculusSidebar"
+  "sidebar": "precalculusSidebar",
+  "next": {
+    "title": "Basic Sine and Cosine Curves: Practice Problems",
+    "permalink": "/docs/precalculus/trig-functions"
+  }
 }

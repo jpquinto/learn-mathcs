@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ebd'),
+    component: ComponentCreator('/docs', '173'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'cac'),
+        component: ComponentCreator('/docs', 'b12'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f73'),
+            component: ComponentCreator('/docs', 'f9a'),
             routes: [
               {
                 path: '/docs/algebra-1/chapter-6/6-1',
@@ -192,8 +192,20 @@ export default [
                 sidebar: "otherSidebar"
               },
               {
+                path: '/docs/other/4th-grade/fractions-practice',
+                component: ComponentCreator('/docs/other/4th-grade/fractions-practice', '605'),
+                exact: true,
+                sidebar: "otherSidebar"
+              },
+              {
                 path: '/docs/precalculus/intro-to-trig',
                 component: ComponentCreator('/docs/precalculus/intro-to-trig', 'da0'),
+                exact: true,
+                sidebar: "precalculusSidebar"
+              },
+              {
+                path: '/docs/precalculus/trig-functions',
+                component: ComponentCreator('/docs/precalculus/trig-functions', '57d'),
                 exact: true,
                 sidebar: "precalculusSidebar"
               }

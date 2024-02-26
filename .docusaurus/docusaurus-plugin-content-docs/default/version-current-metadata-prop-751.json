@@ -254,6 +254,13 @@
         "href": "/docs/precalculus/intro-to-trig",
         "docId": "precalculus/intro-to-trig",
         "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Basic Sine and Cosine Curves: Practice Problems",
+        "href": "/docs/precalculus/trig-functions",
+        "docId": "precalculus/trig-functions",
+        "unlisted": false
       }
     ],
     "otherSidebar": [
@@ -268,6 +275,13 @@
             "label": "Adding and Simplifying Fractions Practice",
             "href": "/docs/other/4th-grade/adding-fractions",
             "docId": "other/4th-grade/adding-fractions",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Fractions Practice",
+            "href": "/docs/other/4th-grade/fractions-practice",
+            "docId": "other/4th-grade/fractions-practice",
             "unlisted": false
           }
         ]
@@ -376,10 +390,22 @@
       "description": "Adding Fractions",
       "sidebar": "otherSidebar"
     },
+    "other/4th-grade/fractions-practice": {
+      "id": "other/4th-grade/fractions-practice",
+      "title": "Fractions Practice",
+      "description": "Fraction Operations with Tape Model",
+      "sidebar": "otherSidebar"
+    },
     "precalculus/intro-to-trig": {
       "id": "precalculus/intro-to-trig",
       "title": "Intro to Trigonometry: Practice Problems",
       "description": "Resources: Link/03%3ASolvingandTrigonometricFunctions/3.04%3AIntroductiontoTrigonometric_Functions)",
+      "sidebar": "precalculusSidebar"
+    },
+    "precalculus/trig-functions": {
+      "id": "precalculus/trig-functions",
+      "title": "Basic Sine and Cosine Curves: Practice Problems",
+      "description": "1: Graphing Sine and Cosine",
       "sidebar": "precalculusSidebar"
     }
   }
