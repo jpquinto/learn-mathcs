@@ -254,6 +254,13 @@
         "href": "/docs/precalculus/trig-functions",
         "docId": "precalculus/trig-functions",
         "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Solving Systems of Equations",
+        "href": "/docs/precalculus/systems-of-equations",
+        "docId": "precalculus/systems-of-equations",
+        "unlisted": false
       }
     ],
     "otherSidebar": [
@@ -417,6 +424,12 @@
       "id": "precalculus/intro-to-trig",
       "title": "Intro to Trigonometry: Practice Problems",
       "description": "Resources: Link/03%3ASolvingandTrigonometricFunctions/3.04%3AIntroductiontoTrigonometric_Functions)",
+      "sidebar": "precalculusSidebar"
+    },
+    "precalculus/systems-of-equations": {
+      "id": "precalculus/systems-of-equations",
+      "title": "Solving Systems of Equations",
+      "description": "Substitution",
       "sidebar": "precalculusSidebar"
     },
     "precalculus/trig-functions": {

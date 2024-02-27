@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b31'),
+    component: ComponentCreator('/docs', '328'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ec2'),
+        component: ComponentCreator('/docs', '433'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '825'),
+            component: ComponentCreator('/docs', '2f4'),
             routes: [
               {
                 path: '/docs/algebra-1/chapter-6/6-1',
@@ -224,6 +224,12 @@ export default [
               {
                 path: '/docs/precalculus/intro-to-trig',
                 component: ComponentCreator('/docs/precalculus/intro-to-trig', 'da0'),
+                exact: true,
+                sidebar: "precalculusSidebar"
+              },
+              {
+                path: '/docs/precalculus/systems-of-equations',
+                component: ComponentCreator('/docs/precalculus/systems-of-equations', 'afc'),
                 exact: true,
                 sidebar: "precalculusSidebar"
               },

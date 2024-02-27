@@ -20,5 +20,9 @@
   "previous": {
     "title": "Intro to Trigonometry: Practice Problems",
     "permalink": "/docs/precalculus/intro-to-trig"
+  },
+  "next": {
+    "title": "Solving Systems of Equations",
+    "permalink": "/docs/precalculus/systems-of-equations"
   }
 }

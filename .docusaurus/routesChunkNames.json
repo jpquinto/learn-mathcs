@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-b31": {
+  "/docs-328": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsee-3-1b6"
     }
   },
-  "/docs-ec2": {
+  "/docs-433": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-825": {
+  "/docs-2f4": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/algebra-1/chapter-6/6-1-5a3": {
@@ -177,6 +177,10 @@
   "/docs/precalculus/intro-to-trig-da0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-precalculus-intro-to-trige-1-a-fb3"
+  },
+  "/docs/precalculus/systems-of-equations-afc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-precalculus-systems-of-equationsc-24-5d2"
   },
   "/docs/precalculus/trig-functions-57d": {
     "__comp": "__comp---theme-doc-item-178-a40",

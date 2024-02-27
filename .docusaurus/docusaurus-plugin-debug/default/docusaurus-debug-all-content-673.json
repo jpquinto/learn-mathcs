@@ -613,6 +613,30 @@
               }
             },
             {
+              "id": "precalculus/systems-of-equations",
+              "title": "Solving Systems of Equations",
+              "description": "Substitution",
+              "source": "@site/docs/precalculus/systems-of-equations.md",
+              "sourceDirName": "precalculus",
+              "slug": "/precalculus/systems-of-equations",
+              "permalink": "/docs/precalculus/systems-of-equations",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "precalculusSidebar",
+              "previous": {
+                "title": "Basic Sine and Cosine Curves: Practice Problems",
+                "permalink": "/docs/precalculus/trig-functions"
+              }
+            },
+            {
               "id": "precalculus/trig-functions",
               "title": "Basic Sine and Cosine Curves: Practice Problems",
               "description": "1: Graphing Sine and Cosine",
@@ -634,6 +658,10 @@
               "previous": {
                 "title": "Intro to Trigonometry: Practice Problems",
                 "permalink": "/docs/precalculus/intro-to-trig"
+              },
+              "next": {
+                "title": "Solving Systems of Equations",
+                "permalink": "/docs/precalculus/systems-of-equations"
               }
             }
           ],
@@ -835,6 +863,10 @@
               {
                 "type": "doc",
                 "id": "precalculus/trig-functions"
+              },
+              {
+                "type": "doc",
+                "id": "precalculus/systems-of-equations"
               }
             ],
             "otherSidebar": [

@@ -125,6 +125,11 @@
               "sidebar": "precalculusSidebar"
             },
             {
+              "id": "precalculus/systems-of-equations",
+              "path": "/docs/precalculus/systems-of-equations",
+              "sidebar": "precalculusSidebar"
+            },
+            {
               "id": "precalculus/trig-functions",
               "path": "/docs/precalculus/trig-functions",
               "sidebar": "precalculusSidebar"
