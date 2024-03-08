@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '328'),
+    component: ComponentCreator('/docs', 'b0b'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '433'),
+        component: ComponentCreator('/docs', '91d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2f4'),
+            component: ComponentCreator('/docs', '625'),
             routes: [
               {
                 path: '/docs/algebra-1/chapter-6/6-1',
@@ -218,6 +218,12 @@ export default [
               {
                 path: '/docs/other/4th-grade/fractions-practice',
                 component: ComponentCreator('/docs/other/4th-grade/fractions-practice', '605'),
+                exact: true,
+                sidebar: "otherSidebar"
+              },
+              {
+                path: '/docs/other/4th-grade/long-division-and-fractions',
+                component: ComponentCreator('/docs/other/4th-grade/long-division-and-fractions', 'e35'),
                 exact: true,
                 sidebar: "otherSidebar"
               },

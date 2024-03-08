@@ -283,6 +283,13 @@
             "href": "/docs/other/4th-grade/fractions-practice",
             "docId": "other/4th-grade/fractions-practice",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Long Division and Fractions Practice",
+            "href": "/docs/other/4th-grade/long-division-and-fractions",
+            "docId": "other/4th-grade/long-division-and-fractions",
+            "unlisted": false
           }
         ]
       }
@@ -418,6 +425,12 @@
       "id": "other/4th-grade/fractions-practice",
       "title": "Fractions Practice",
       "description": "Fraction Operations with Tape Model",
+      "sidebar": "otherSidebar"
+    },
+    "other/4th-grade/long-division-and-fractions": {
+      "id": "other/4th-grade/long-division-and-fractions",
+      "title": "Long Division and Fractions Practice",
+      "description": "Long Division",
       "sidebar": "otherSidebar"
     },
     "precalculus/intro-to-trig": {

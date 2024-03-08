@@ -1,0 +1,24 @@
+{
+  "id": "other/4th-grade/long-division-and-fractions",
+  "title": "Long Division and Fractions Practice",
+  "description": "Long Division",
+  "source": "@site/docs/other/4th-grade/long-division-and-fractions.md",
+  "sourceDirName": "other/4th-grade",
+  "slug": "/other/4th-grade/long-division-and-fractions",
+  "permalink": "/docs/other/4th-grade/long-division-and-fractions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "otherSidebar",
+  "previous": {
+    "title": "Fractions Practice",
+    "permalink": "/docs/other/4th-grade/fractions-practice"
+  }
+}
