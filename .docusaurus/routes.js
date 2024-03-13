@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b0b'),
+    component: ComponentCreator('/docs', 'ba7'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '91d'),
+        component: ComponentCreator('/docs', 'fbe'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '625'),
+            component: ComponentCreator('/docs', 'e58'),
             routes: [
               {
                 path: '/docs/algebra-1/chapter-6/6-1',
@@ -218,6 +218,12 @@ export default [
               {
                 path: '/docs/other/4th-grade/fractions-practice',
                 component: ComponentCreator('/docs/other/4th-grade/fractions-practice', '605'),
+                exact: true,
+                sidebar: "otherSidebar"
+              },
+              {
+                path: '/docs/other/4th-grade/fractions-practice-4',
+                component: ComponentCreator('/docs/other/4th-grade/fractions-practice-4', '868'),
                 exact: true,
                 sidebar: "otherSidebar"
               },

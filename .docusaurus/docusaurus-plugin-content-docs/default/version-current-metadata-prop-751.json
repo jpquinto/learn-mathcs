@@ -290,6 +290,13 @@
             "href": "/docs/other/4th-grade/long-division-and-fractions",
             "docId": "other/4th-grade/long-division-and-fractions",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Multiplying Fractions Intro",
+            "href": "/docs/other/4th-grade/fractions-practice-4",
+            "docId": "other/4th-grade/fractions-practice-4",
+            "unlisted": false
           }
         ]
       }
@@ -425,6 +432,12 @@
       "id": "other/4th-grade/fractions-practice",
       "title": "Fractions Practice",
       "description": "Fraction Operations with Tape Model",
+      "sidebar": "otherSidebar"
+    },
+    "other/4th-grade/fractions-practice-4": {
+      "id": "other/4th-grade/fractions-practice-4",
+      "title": "Multiplying Fractions Intro",
+      "description": "Multiplying the Fractions by a whole number",
       "sidebar": "otherSidebar"
     },
     "other/4th-grade/long-division-and-fractions": {
